@@ -96,7 +96,7 @@ My approach blends clean architecture, reactive design, and automation, helping 
 **Senior Software Engineer** \
 [**Betsson Group**](https://www.betssongroup.com/) • Full-time • Malta (Hybrid) \
 **Technologies**: `Angular v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`, `Jest`, `Playwright` \
-**Projects**: Multi-brand cashier platform delivering secure and localized payment flows across multiple countries and brands.
+**Projects**: Multi-brand cashier platform delivering payment flows across multiple countries and brands.
 
 [<img align="left" height="94px" width="94px" alt="Canon" src="./assets/images/canon_medical_brasil_logo.jpeg"/>](https://br.medical.canon/)
 
