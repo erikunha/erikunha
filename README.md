@@ -1,14 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=erikunha&style=flat-square)
 
-# Hello World
+# 👋 Hello World — I’m Erik Henrique
+### Senior Frontend Engineer • Scalable Architecture · AI-Driven Development · Developer Experience
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I am Erik 👋… A Software Engineer with experience designing, developing, and optimizing web applications using Angular (versions 2 through 18), React.js, Next.js, and TypeScript. Proficient in Node.js to build RESTful APIs using Express.js, PostgreSQL, MongoDB, Docker, and Docker Compose, including setup of AWS services CodePipeline, CodeBuild, CodeDeploy, CodeCommit, WAF, CloudFront, S3, RDS, EC2, Route 53, ACM, and ELB.
+I’m a **Senior Frontend Engineer** who approaches software as a craft that grows through **clarity, empathy, and shared learning**.
+My focus is on **scalable architecture** and **developer experience** — building codebases that are fast, reliable, and easy for teams to evolve together.
+I believe great engineering culture starts with **trust and curiosity**: encouraging people to explore, automate, and use **AI-powered tools** to amplify creativity, quality, and collaboration.
 
-Proven ability to collaborate with cross-functional teams to deliver high-quality user interfaces that meet WCAG accessibility standards, enhancing search engine ranking. In addition to advanced English proficiency and experience leading technical meetings besides integration discussions.
-
-## Skillset
+## 🧠 Core Skillset & Technologies
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -46,16 +47,19 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
 </div>
 
-## About me
+---
 
-- 🌱 I’m currently interested in learning more about **AWS, Angular, and C# .NET**
-- 👨‍💻 Take a look at [https://www.erikunha.dev/](https://erikunha.dev/)
-- 📝 I regularly write articles on [DEV.to](https://dev.to/erikunha)
-- 💬 Ask me about **software engineering or frontend technologies**
-- 📄 Know more about my experiences on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
-- ⚡ Fun fact **I am not from India** 🇮🇳
+### 🚀 **Highlights**
 
-## GitHub stats
+- 🧠 **Mentored engineers** onboarding to complex Angular / Nx monorepos — introducing architecture blueprints, reactive-state patterns, and test strategies that accelerated onboarding and delivery.
+- 🤖 **Pioneered AI-assisted development culture** — built internal prompt libraries for GitHub Copilot, ChatGPT, and Cursor to automate unit-test generation, PR reviews, and documentation.
+- 💬 **Led cross-brand technical meetings** with distributed teams and third-party API providers, aligning architecture decisions and standards across platforms.
+- 🧩 **Refactored legacy modules** into reusable, brand-agnostic Angular libraries with OnPush change detection and immutability, reducing bundle size and improving runtime stability.
+- ⚡ **Championed developer-experience automation** — introduced AI prompt systems, code-review templates, and quality gates that improved test coverage and team velocity.
+
+---
+
+## 📊 GitHub Insights & Contributions
 
 <a align="center" target="_blank" href="https://github-readme-streak-stats.herokuapp.com/?user=erikunha&theme=cobalt2">
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=erikunha&theme=cobalt2" alt="erikunha contributions" />
@@ -68,85 +72,91 @@ Proven ability to collaborate with cross-functional teams to deliver high-qualit
 </a>
 <p align="center">
 <a href="https://github.com/erikunha/">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
-alt="erikunha :: Top Langs by repo" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart"
-alt="erikunha :: Top Langs by commit" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart" alt="erikunha :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erikunha&theme=cobalt2&layout=compact&hide_border=true&exclude=dart" alt="erikunha :: Top Langs by commit" />
 </a>
 </p>
-    
 
-## Blogs posts
+---
 
+## ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
-
 <br/>
 
-## Work experience
+---
+
+## 🧩 Work Experience  
+[<img align="left" height="94px" width="94px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg"/>](https://www.betssongroup.com/)
+
+**Senior Software Engineer**
+[**Betsson Group**](https://www.betssongroup.com/) • Full-time • Malta (Hybrid)
+**Technologies:** `Angular v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`, `Jest`, `Playwright`
+**Projects:** Multi-brand cashier platform delivering secure and localized payment flows across multiple countries and brands.
 
 [<img align="left" height="94px" width="94px" alt="Canon" src="./assets/images/canon_medical_brasil_logo.jpeg"/>](https://br.medical.canon/)
 
-**Frontend Developer** \
-[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
-**Technologies**: `Angular v12~v19` \
-**Projects**: Internal
+**Frontend Developer**
+[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract
+**Technologies:** `Angular v14–v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`
+**Projects:** Internal enterprise apps with focus on performance and test automation
 
 [<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_s_a__logo.jpeg" />](https://ri.gruposbf.com.br/)
 
-**Software Engineer** \
-[**Grupo SBF**](https://ri.gruposbf.com.br/) • Full-time \
-**Technologies**: `React.js v18+`, `Next.js v12` \
-**Projects**: [Nike](https://www.nike.com.br/), and [Centauro](https://www.centauro.com.br/)
+**Software Engineer**
+[**Grupo SBF (Nike & Centauro)**](https://ri.gruposbf.com.br/) • Full-time
+**Technologies:** `React v18`, `Next.js`, `TypeScript`, `Styled Components`, `Jest`
+**Projects:** [ Nike ](https://www.nike.com.br/), [ Centauro ](https://www.centauro.com.br/) — UI optimization and Core Web Vitals improvements
 
 [<img align="left" height="94px" width="94px" alt="Encora" src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
 
-**Frontend Developer** \
-[**Encora Inc. (Brazil)**](https://www.encora.com/) • Full-time \
-**Technologies**: `Angular v8~v12`, `AWS` \
-**Projects**: [VMWare Pathfinder](https://pathfinder.vmware.com/)
+**Frontend Developer**
+[**Encora Inc. (VMware Pathfinder)**](https://www.encora.com/) • Full-time
+**Technologies:** `Angular v8–v12`, `TypeScript`, `SCSS`, `Karma`, `Jasmine`
+**Projects:** EdTech platforms for global teams with accessibility and testing focus
 
 [<img align="left" height="94px" width="94px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
 
-**Frontend Developer** \
-[**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time \
-**Technologies**: `Angular v11`, `AWS (CI/CD)` \
-**Projects**: Internal
+**Frontend Developer**
+[**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time
+**Technologies:** `Angular v11`, `TypeScript`, `Node.js`, `SCSS`, `AWS (CI/CD)`
+**Projects:** Internal banking tools and CI/CD automation
 
 [<img align="left" height="94px" width="94px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
 
-**Full Stack Developer (MEAN Stack)** \
-[**Venturus**](https://www.venturus.org.br/) • Full-time \
-**Technologies**: `Angular v4~11`, `Node.js` \
-**Projects**: [CGO (Comex)](http://www.cgoassessoria.com.br/), [CCR Autoban](https://www.autoban.com.br/)
+**Full Stack Developer (MEAN Stack)**
+[**Venturus**](https://www.venturus.org.br/) • Full-time
+**Technologies:** `Angular v4–11`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`
+**Projects:** B2B dashboards and automation solutions for logistics clients
 
 [<img align="left" height="94px" width="94px" alt="MB Labs Aplicativos" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
 
-**Full Stack Developer** \
-[**MB Labs**](https://mblabs.com.br/) • Contract \
-**Technologies**: `Angular/Ionic v3`, `Node.js` \
-**Projects**: SM Aprendizagem (Edições SM), and Hondana
+**Full Stack Developer**
+[**MB Labs**](https://mblabs.com.br/) • Contract
+**Technologies:** `Angular/Ionic v3`, `Node.js`, `Express.js`, `REST APIs`, `PWA`
+**Projects:** Educational and publishing apps for SM Edições and Hondana
 
-## Connect with me
+---
+
+## 🤝 Let’s Connect
 
 <div align="left">
 <a href="https://www.youtube.com/@programadornagringa/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=programadornagringa&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Youtube logo" />
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=programadornagringa&color=FF0000&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://dev.to/erikunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=erikunha&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Devto logo" />
+<img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=erikunha&color=0A0A0A&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://www.linkedin.com/in/erikhenriquealvescunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Linkedin logo" />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erik%20Cunha&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://www.hackerrank.com/erikunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Hackerrank logo" />
+<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://www.instagram.com/programadornagringa/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram logo" />
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@programadornagringa&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://twitter.com/erikunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Twitter logo" />
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@erikunha&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
 </a>
 </div>
