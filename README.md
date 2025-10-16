@@ -9,6 +9,8 @@ I’m a **Senior Frontend Engineer** who approaches software as a craft that gro
 My focus is on **scalable architecture** and **developer experience** — building codebases that are fast, reliable, and easy for teams to evolve together.
 I believe great engineering culture starts with **trust and curiosity**: encouraging people to explore, automate, and use **AI-powered tools** to amplify creativity, quality, and collaboration.
 
+
+
 ## 🧠 Core Skillset & Technologies
 
 <div align="left">
@@ -143,22 +145,22 @@ I believe great engineering culture starts with **trust and curiosity**: encoura
 ## 🤝 Let’s Connect
 
 <div align="left">
-<a href="https://www.youtube.com/@programadornagringa/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=programadornagringa&color=FF0000&logoColor=white&style=for-the-badge" height="30" />
+<a href="https://www.youtube.com/@eriknagringa/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=Erik%20na%20gringa&color=FF0000&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://dev.to/erikunha/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=DEV.to&logo=dev.to&label=erikunha&color=0A0A0A&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://www.linkedin.com/in/erikhenriquealvescunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erik%20Cunha&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Erik%20Henrique&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://www.hackerrank.com/erikunha/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="30" />
 </a>
-<a href="https://www.instagram.com/programadornagringa/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@programadornagringa&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
+<a href="https://www.instagram.com/eriknagringa/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=@eriknagringa&color=E4405F&logoColor=white&style=for-the-badge" height="30" />
 </a>
 <a href="https://twitter.com/erikunha/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@erikunha&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@eriknagringa&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
 </a>
 </div>
