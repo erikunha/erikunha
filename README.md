@@ -86,55 +86,57 @@ I believe great engineering culture starts with **trust and curiosity**: encoura
 
 ---
 
-## 🧩 Work Experience  
+## 🧩 Work Experience
+
 [<img align="left" height="94px" width="94px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg"/>](https://www.betssongroup.com/)
 
-**Senior Software Engineer**
-[**Betsson Group**](https://www.betssongroup.com/) • Full-time • Malta (Hybrid)
-**Technologies:** `Angular v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`, `Jest`, `Playwright`
-**Projects:** Multi-brand cashier platform delivering secure and localized payment flows across multiple countries and brands.
+**Senior Software Engineer** \
+[**Betsson Group**](https://www.betssongroup.com/) • Full-time • Malta (Hybrid) \
+**Technologies**: `Angular v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`, `Jest`, `Playwright` \
+**Projects**: Multi-brand cashier platform delivering secure and localized payment flows across multiple countries and brands.
 
 [<img align="left" height="94px" width="94px" alt="Canon" src="./assets/images/canon_medical_brasil_logo.jpeg"/>](https://br.medical.canon/)
 
-**Frontend Developer**
-[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract
-**Technologies:** `Angular v14–v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx`
-**Projects:** Internal enterprise apps with focus on performance and test automation
+**Frontend Developer** \
+[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
+**Technologies**: `Angular v14–v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx` \
+**Projects**: Internal enterprise apps with performance and test automation focus.
 
 [<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_s_a__logo.jpeg" />](https://ri.gruposbf.com.br/)
 
-**Software Engineer**
-[**Grupo SBF (Nike & Centauro)**](https://ri.gruposbf.com.br/) • Full-time
-**Technologies:** `React v18`, `Next.js`, `TypeScript`, `Styled Components`, `Jest`
-**Projects:** [ Nike ](https://www.nike.com.br/), [ Centauro ](https://www.centauro.com.br/) — UI optimization and Core Web Vitals improvements
+**Software Engineer** \
+[**Grupo SBF (Nike & Centauro)**](https://ri.gruposbf.com.br/) • Full-time \
+**Technologies**: `React v18`, `Next.js`, `TypeScript`, `Styled Components`, `Jest` \
+**Projects**: [Nike](https://www.nike.com.br/) and [Centauro](https://www.centauro.com.br/) — UI optimization and Core Web Vitals improvements.
 
 [<img align="left" height="94px" width="94px" alt="Encora" src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
 
-**Frontend Developer**
-[**Encora Inc. (VMware Pathfinder)**](https://www.encora.com/) • Full-time
-**Technologies:** `Angular v8–v12`, `TypeScript`, `SCSS`, `Karma`, `Jasmine`
-**Projects:** EdTech platforms for global teams with accessibility and testing focus
+**Frontend Developer** \
+[**Encora Inc. (VMware Pathfinder)**](https://www.encora.com/) • Full-time \
+**Technologies**: `Angular v8–v12`, `TypeScript`, `SCSS`, `Karma`, `Jasmine` \
+**Projects**: [VMware Pathfinder](https://pathfinder.vmware.com/) — global EdTech platform improving accessibility and performance.
 
 [<img align="left" height="94px" width="94px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
 
-**Frontend Developer**
-[**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time
-**Technologies:** `Angular v11`, `TypeScript`, `Node.js`, `SCSS`, `AWS (CI/CD)`
-**Projects:** Internal banking tools and CI/CD automation
+**Frontend Developer** \
+[**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time \
+**Technologies**: `Angular v11`, `TypeScript`, `Node.js`, `SCSS`, `AWS (CI/CD)` \
+**Projects**: Internal banking tools with CI/CD automation and scalable architecture.
 
 [<img align="left" height="94px" width="94px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
 
-**Full Stack Developer (MEAN Stack)**
-[**Venturus**](https://www.venturus.org.br/) • Full-time
-**Technologies:** `Angular v4–11`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`
-**Projects:** B2B dashboards and automation solutions for logistics clients
+**Full Stack Developer (MEAN Stack)** \
+[**Venturus**](https://www.venturus.org.br/) • Full-time \
+**Technologies**: `Angular v4–11`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL` \
+**Projects**: [CGO (Comex)](http://www.cgoassessoria.com.br/) and [CCR Autoban](https://www.autoban.com.br/) — B2B dashboards and automation systems.
 
 [<img align="left" height="94px" width="94px" alt="MB Labs Aplicativos" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
 
-**Full Stack Developer**
-[**MB Labs**](https://mblabs.com.br/) • Contract
-**Technologies:** `Angular/Ionic v3`, `Node.js`, `Express.js`, `REST APIs`, `PWA`
-**Projects:** Educational and publishing apps for SM Edições and Hondana
+**Full Stack Developer** \
+[**MB Labs**](https://mblabs.com.br/) • Contract \
+**Technologies**: `Angular/Ionic v3`, `Node.js`, `Express.js`, `REST APIs`, `PWA` \
+**Projects**: Educational and publishing platforms for SM Edições and Hondana.
+
 
 ---
 
