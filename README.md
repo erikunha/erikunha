@@ -5,11 +5,12 @@
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I’m a **Senior Frontend Engineer** who approaches software as a craft that grows through **clarity, empathy, and shared learning**.
-My focus is on **scalable architecture** and **developer experience** — building codebases that are fast, reliable, and easy for teams to evolve together.
-I believe great engineering culture starts with **trust and curiosity**: encouraging people to explore, automate, and use **AI-powered tools** to amplify creativity, quality, and collaboration.
+I’m a Senior Frontend Engineer who approaches software as a craft that grows through clarity, empathy, and shared learning.
+My focus is on scalable architecture and developer experience — building codebases that are fast, reliable, and easy for teams to evolve together.
+I believe great engineering culture starts with trust and curiosity: encouraging people to explore, automate, and use AI-powered tools to amplify creativity, quality, and collaboration.
 
-
+Over the past seven years, I’ve worked across international, multi-brand platforms, bridging teams in Europe, LATAM, and North America.
+My approach blends clean architecture, reactive design, and automation, helping teams deliver predictable software at scale while continuously improving performance, accessibility, and team velocity.
 
 ## 🧠 Core Skillset & Technologies
 
