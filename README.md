@@ -1,64 +1,89 @@
 ![](https://komarev.com/ghpvc/?username=erikunha&style=flat-square)
 
 # 👋 Hello World — I’m Erik Henrique
-### Senior Frontend Software Engineer • Scalable Architecture · AI-Driven Development · Developer Experience
+### Senior Frontend Software Engineer • Web Performance & Accessibility at Scale · Seamless User Experience · Platform Reliability
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-I’m a Software Engineer who approaches software as a craft that grows through clarity, empathy, and shared learning.
-My focus is on scalable architecture and developer experience — building codebases that are fast, reliable, and easy for teams to evolve together.
-I believe great engineering culture starts with trust and curiosity: encouraging people to explore, automate, and use AI-powered tools to amplify creativity, quality, and collaboration.
+Software Engineer with 7+ years of experience building and evolving high-traffic web platforms across regulated and consumer-facing domains, including payments, e-commerce, healthcare, and insurance, serving users across Europe, LATAM, and North America.
 
-Over the past seven years, I’ve worked across international, multi-brand platforms, bridging teams in Europe, LATAM, and North America.
-My approach blends clean architecture, reactive design, and automation, helping teams deliver predictable software at scale while continuously improving performance, accessibility, and team velocity.
+My work sits at the intersection of frontend architecture, system reliability, and developer productivity. I specialize in designing frontend platforms that scale across teams and brands — prioritizing performance, accessibility, maintainability, and clear architectural boundaries.
 
-## 🧠 Core Skillset & Technologies
+I focus on building systems that are not only correct, but durable: codebases that new engineers can understand quickly, extend safely, and operate confidently in production. This includes strong architectural documentation, pragmatic testing strategies, and tooling that reduces cognitive load while increasing delivery quality.
+
+---
+
+### 🧠 Core Skillset & Technologies
 
 <div align="left">
+
+<!-- Devicon (jsdelivr) mantidos -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
 <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
 <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
 <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
 <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo" />
 <img src="https://skillicons.dev/icons?i=babel" height="30" alt="babel logo" />
 <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
-<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
+<img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="sequelize logo" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stylus/stylus-original.svg" height="30" alt="stylus logo" />
+
 <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+
 <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo" />
 <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo" />
 <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
+
+<img src="https://skillicons.dev/icons?i=reactivex" height="30" alt="rxjs logo" />
+<img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="tailwindcss logo" />
+<img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo" />
+<img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+<img src="https://skillicons.dev/icons?i=cypress" height="30" alt="cypress logo" />
+<img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+
 </div>
 
 ---
 
 ### 🚀 **Highlights**
 
-- 🧠 **Mentored engineers** onboarding to complex Angular / Nx monorepos — introducing architecture blueprints, reactive-state patterns, and test strategies that accelerated onboarding and delivery.
-- 🤖 **Pioneered AI-assisted development culture** — built internal prompt libraries for GitHub Copilot, ChatGPT, and Cursor to automate unit-test generation, PR reviews, and documentation.
-- 💬 **Led cross-brand technical meetings** with distributed teams and third-party API providers, aligning architecture decisions and standards across platforms.
-- 🧩 **Refactored legacy modules** into reusable, brand-agnostic Angular libraries with OnPush change detection and immutability, reducing bundle size and improving runtime stability.
-- ⚡ **Championed developer-experience automation** — introduced AI prompt systems, code-review templates, and quality gates that improved test coverage and team velocity.
+
+🧠 **Platform-level frontend ownership:** Designed and evolved Angular-based frontend platforms using Nx monorepos, defining architectural standards, reactive-state patterns, and testing strategies that significantly improved onboarding speed and reduced cross-team friction.
+
+🧩 **Scalable multi-brand systems:** Refactored legacy frontend modules into reusable, brand-agnostic Angular libraries using OnPush change detection and immutable data flows, reducing bundle size, improving runtime stability, and enabling safe reuse across multiple products and brands.
+
+💬 **Cross-team architectural alignment:** Led technical discussions with distributed teams and third-party API providers, aligning frontend architecture decisions, integration contracts, and quality standards across regions and product lines.
+
+🤖 **AI-augmented developer productivity:** Championed AI-assisted development workflows by building internal prompt libraries and tooling for GitHub Copilot, ChatGPT, and Cursor, accelerating unit-test generation, documentation, and code review consistency while preserving engineering quality and standards.
 
 ---
 
@@ -91,47 +116,54 @@ My approach blends clean architecture, reactive design, and automation, helping 
 
 ## 🧩 Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Canon" src="./assets/images/canon_medical_brasil_logo.jpeg"/>](https://br.medical.canon/)
+[<img align="left" height="94px" width="94px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg" />](https://betssongroup.com/)
 
-**Software Engineering Consultant** \
-[**Canon Medical Systems (Brazil)**](https://br.medical.canon/) • Contract \
+**Senior Frontend Software Engineer** \
+[**Betsson Group (Malta)**](https://betssongroup.com/) • Full-time \
+**Technologies**: `Angular v18`, `Nx`, `TypeScript`, `RxJS`, `NgRx`, `Jest`, `Playwright`, `Stencil.js` \
+**Projects**: [Multi-Brand Payments Platform](https://www.betsson.com/en) — PCI-DSS compliant multinational deposit/withdrawal flows.
+
+<img align="left" height="94px" width="94px" alt="Canon" src="./assets/images/linkedin_unknow_company_logo.jpeg"/>
+
+**Senior Frontend Software Engineering Consultant** \
+**Independent Consultant** • Contract \
 **Technologies**: `Angular v14–v18`, `TypeScript`, `RxJS`, `NgRx`, `Nx` \
-**Projects**: Internal enterprise apps with performance and test automation focus.
+**Projects**: Internal maintenance management platform of critical healthcare equipment across facilities.
 
-[<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_s_a__logo.jpeg" />](https://ri.gruposbf.com.br/)
+[<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_logo.jpeg" />](https://ri.gruposbf.com.br/)
 
-**Software Engineer** \
+**Frontend React.js / Next.js Software Engineering** \
 [**Grupo SBF (Nike & Centauro)**](https://ri.gruposbf.com.br/) • Full-time \
 **Technologies**: `React v18`, `Next.js`, `TypeScript`, `Styled Components`, `Jest` \
-**Projects**: [Nike](https://www.nike.com.br/) and [Centauro](https://www.centauro.com.br/) — UI optimization and Core Web Vitals improvements.
+**Projects**: [Nike](https://www.nike.com.br/) and [Centauro](https://www.centauro.com.br/) — Increasing conversion rates and revenue of e-commerce platforms.
 
 [<img align="left" height="94px" width="94px" alt="Encora" src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
 
-**Software Development Specialist** \
+**Frontend Angular Software Engineer** \
 [**Encora Inc. (VMware Pathfinder)**](https://www.encora.com/) • Full-time \
 **Technologies**: `Angular v8–v12`, `TypeScript`, `SCSS`, `Karma`, `Jasmine` \
-**Projects**: [VMware Pathfinder](https://pathfinder.vmware.com/) — global EdTech platform improving accessibility and performance.
+**Projects**: [VMware Pathfinder](https://pathfinder.vmware.com/) — global EdTech platform improving user experience and flows.
 
 [<img align="left" height="94px" width="94px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
 
-**Software Engineer** \
+**Frontend Angular Software Engineer** \
 [**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time \
-**Technologies**: `Angular v11`, `TypeScript`, `Node.js`, `SCSS`, `AWS (CI/CD)` \
-**Projects**: Internal banking tools with CI/CD automation and scalable architecture.
+**Technologies**: `Angular v11`, `TypeScript`, `Node.js`, `SCSS`, `AWS` \
+**Projects**: Offering and contracting insurance for companies.
 
 [<img align="left" height="94px" width="94px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
 
-**Full Stack Engineer (MEAN Stack)** \
+**Full Stack Software Engineer (MEAN Stack)** \
 [**Venturus**](https://www.venturus.org.br/) • Full-time \
 **Technologies**: `Angular v4–11`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL` \
-**Projects**: [CGO (Comex)](http://www.cgoassessoria.com.br/) and [CCR Autoban](https://www.autoban.com.br/) — B2B dashboards and automation systems.
+**Projects**: [CGO (Comex)](http://www.cgoassessoria.com.br/) and [CCR Autoban](https://www.autoban.com.br/) — Back-office systems.
 
 [<img align="left" height="94px" width="94px" alt="MB Labs Aplicativos" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
 
-**Full Stack Engineer** \
+**Full Stack Software Engineer** \
 [**MB Labs**](https://mblabs.com.br/) • Contract \
-**Technologies**: `Angular/Ionic v3`, `Node.js`, `Express.js`, `REST APIs`, `PWA` \
-**Projects**: Educational and publishing platforms for SM Edições and Hondana.
+**Technologies**: `Angular v3`, `Ionic v3`, `Node.js`, `Express.js`, `REST APIs`, `PWA` \
+**Projects**: ChatBot learning games and educational apps for children.
 
 
 ---
