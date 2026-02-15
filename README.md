@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=erikunha&style=flat-square)
 
 # 👋 Hello World — I’m Erik Henrique
-### Senior Frontend Software Engineer • Web Performance & Accessibility at Scale · Seamless User Experience · Platform Reliability
+### Senior Frontend Software Engineer • Web Performance, Reliability and Accessibility at Scale
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
@@ -9,7 +9,7 @@ Software Engineer with 7+ years of experience building and evolving high-traffic
 
 My work sits at the intersection of frontend architecture, system reliability, and developer productivity. I specialize in designing frontend platforms that scale across teams and brands — prioritizing performance, accessibility, maintainability, and clear architectural boundaries.
 
-I focus on building systems that are not only correct, but durable: codebases that new engineers can understand quickly, extend safely, and operate confidently in production. This includes strong architectural documentation, pragmatic testing strategies, and tooling that reduces cognitive load while increasing delivery quality.
+I focus on building systems that are not only correct but also durable: codebases that new engineers can understand quickly, extend safely, and operate confidently in production. This includes strong architectural documentation, pragmatic testing strategies, and tooling that reduces cognitive load while increasing delivery quality.
 
 ---
 
@@ -72,12 +72,12 @@ I focus on building systems that are not only correct, but durable: codebases th
 
 </div>
 
----
+--- 
 
 ### 🚀 **Highlights**
 
 
-🧠 **Platform-level frontend ownership:** Designed and evolved Angular-based frontend platforms using Nx monorepos, defining architectural standards, reactive-state patterns, and testing strategies that significantly improved onboarding speed and reduced cross-team friction.
+🧠 **Platform-level frontend ownership:** Designed and evolved frontend platforms using Nx monorepos, defining architectural standards, reactive-state patterns, and testing strategies that significantly improved onboarding speed and reduced cross-team friction.
 
 🧩 **Scalable multi-brand systems:** Refactored legacy frontend modules into reusable, brand-agnostic Angular libraries using OnPush change detection and immutable data flows, reducing bundle size, improving runtime stability, and enabling safe reuse across multiple products and brands.
 
