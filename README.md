@@ -72,7 +72,7 @@ I focus on building systems that are not only correct but also durable: codebase
 
 </div>
 
---- 
+---
 
 ### 🚀 **Highlights**
 
@@ -167,7 +167,11 @@ I focus on building systems that are not only correct but also durable: codebase
 
 
 ---
+## 🏅 Certifications
 
+[![Angular Certificate](https://img.shields.io/badge/Angular_Certified-Google_Developers_Experts-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/9dba9fa9-74a7-4006-9314-1c9f766fae61)
+
+---
 ## 🤝 Let’s Connect
 
 <div align="left">
