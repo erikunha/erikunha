@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;Frontend+Platform+Architect;8%2B+yrs+building+at+meaningful+scale;AI-Assisted+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Full-Stack+Engineer;Frontend+Architecture+%C2%B7+Platform+Engineering;AI+Applied+Engineering;Accessibility+%C2%B7+Web+Performance;High-Traffic+Apps+at+Scale;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;Node.js+%C2%B7+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
   &nbsp;
   <img alt="total stars" src="https://img.shields.io/badge/Stars-GitHub-000000?style=flat-square&logo=github&logoColor=00ff41&color=39ff5e&labelColor=000000" />
   &nbsp;
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=erikunha&color=00ff41&style=flat-square&label=Views" />
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=erikunha&color=39ff5e&style=flat-square&label=Views" />
 </p>
 
 <br/>
