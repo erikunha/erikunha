@@ -85,13 +85,17 @@ const erik = {
 
 ### 🚀 Highlights
 
-🏗️ **Payment platform architecture at scale:** Led frontend for a PCI-DSS cashier system processing 40M+ transactions/year and €1B+ revenue across 15+ regulated markets. Built on a micro-frontend topology with StencilJS Web Components running across multiple host frameworks simultaneously from a single source of truth.
+> **🏗️ Payment platform at scale**
+> PCI-DSS cashier · 40M+ transactions/yr · €1B+ revenue · 15+ regulated markets · micro-frontend topology
 
-⚡ **Measurable performance wins:** 52% TTI improvement at Canon Medical via concurrent async loading and TanStack Query cache reuse. 33% JS bundle + 98% CSS bundle reduction with ~25% load time drop. 32% page load improvement and 12% Core Web Vitals gains across Nike Brazil and Centauro's 8M+ MAU platforms.
+> **⚡ Measurable performance wins**
+> 52% TTI reduction · 98% CSS bundle reduction · 33% JS bundle reduction · 32% page load reduction · 12% Core Web Vitals improvement
 
-🤖 **AI-assisted engineering in production:** Designed a 12-agent/subagent setup on GitHub Copilot covering code generation, review, debugging, testing, and architectural validation. Runs under a written AI development contract with tooling-enforced constraints rather than discipline-enforced ones.
+> **🤖 AI-assisted engineering in production**
+> 12-agent/subagent Copilot setup · CLAUDE.md development contract · tooling-enforced constraints · spec-driven delivery
 
-🧪 **Experiment-driven and testable systems:** Designed, shipped, and analyzed 20+ A/B experiments at Grupo SBF, lifting conversion ~10%. Maintained ~70% test coverage on revenue-critical journeys using Jest, Playwright, and MSW/WireMock to isolate upstream dependencies.
+> **🧪 Experiment-driven systems**
+> 20+ A/B experiments · 10% conversion lift · ~70% test coverage on revenue-critical journeys
 
 ---
 
