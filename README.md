@@ -33,7 +33,7 @@
   &nbsp;
   <img alt="total stars" src="https://img.shields.io/badge/Stars-GitHub-000000?style=flat-square&logo=github&logoColor=00ff41&color=39ff5e&labelColor=000000" />
   &nbsp;
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=erikunha&color=39ff5e&style=flat-square&label=Views" />
+  <img alt="profile views" src="https://api.visitorbadge.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Ferikounha&label=Views&labelColor=%23000000&countColor=%2339ff5e&style=flat-square" />
 </p>
 
 <br/>
