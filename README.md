@@ -24,13 +24,11 @@ const erik = {
 
 <div align="center">
 
-📈 **Impact at scale**
-
-![](https://img.shields.io/badge/8%2B%20Years-Experience-c4b5fd?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/40M%2B-Transactions%2Fyr-6ee7b7?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/%E2%82%AC1B%2B-Revenue-fcd34d?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/8M%2B-MAU-f87171?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/70M%2B-Bank%20Customers-93c5fd?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/8%2B%20Years-Building-c4b5fd?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/1-npm%20Package-6ee7b7?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/7-LLM%20Providers-fcd34d?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/OSS-Contributor-f87171?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/Conference-Organizer-93c5fd?style=flat-square&labelColor=1f2937)
 
 </div>
 
