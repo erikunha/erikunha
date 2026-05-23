@@ -1,1 +1,3 @@
 docs/
+.playwright-mcp/
+*.png
