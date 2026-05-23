@@ -226,3 +226,11 @@ SM Aprendizagem — offline-first edu app on 5 OSes · 80% delivery cost reducti
 <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=@eriknagringa&color=1DA1F2&logoColor=white&style=for-the-badge" height="30" />
 </a>
 </div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0f3460,16213e,1a1a2e&height=120&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=16&fontColor=6b7280)
+
+</div>
