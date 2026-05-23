@@ -2,13 +2,24 @@
 
 # 👋 Hello World — I'm Erik Henrique
 ### Senior Full-Stack Software Engineer
-### Frontend Platforms · Performance at Scale · AI-Assisted Engineering
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=600&height=40&lines=Building+payment+platforms+at+%E2%82%AC1B%2B+scale;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;AI-assisted+engineering+in+production;8%2B+years+%C2%B7+fintech+%C2%B7+healthcare+%C2%B7+e-commerce)](https://git.io/typing-svg)
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
-Full-stack engineer with 8+ years building production frontend systems across fintech, healthcare, e-commerce, and banking. Shipped platforms processing 40M+ transactions/year (€1B+ revenue), serving 8M+ monthly users, and backing 70M+ bank customers.
-
-Primary stack is React, Next.js, TypeScript, and Node.js — with enterprise depth in Angular, RxJS, NgRx, and micro-frontend topologies. Recently focused on AI-assisted engineering: multi-agent workflows, spec-driven development, and evaluation pipelines built into the delivery loop.
+```ts
+const erik = {
+  role:        "Senior Full-Stack Engineer",
+  location:    "Brazil → EU → Remote",
+  currentlyAt: "Betsson Group — Malta",
+  stack:       ["React", "Next.js", "TypeScript", "Angular", "Node.js"],
+  scale:       "40M+ transactions/yr · €1B+ revenue · 8M+ MAU",
+  depth:       ["micro-frontends", "RxJS", "NgRx", "Web Components"],
+  aiEng:       ["12-agent Copilot setup", "Claude", "spec-driven dev"],
+  portfolio:   "erikunha.dev",
+  openTo:      "senior / staff roles in EU or remote",
+}
+```
 
 ---
 
