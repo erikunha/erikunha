@@ -36,6 +36,14 @@ const erik = {
 
 </div>
 
+<div align="center">
+
+🏆 **GitHub Trophies**
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=erikunha&theme=algolia&row=1&column=7&no-bg=true&no-frame=true)](https://github.com/erikunha)
+
+</div>
+
 ---
 
 ### 🧠 Core Technologies
