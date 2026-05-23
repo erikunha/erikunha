@@ -123,61 +123,6 @@ const erik = {
 
 ---
 
-## 🧩 Work Experience
-
-[<img align="left" height="60px" width="60px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg" />](https://betssongroup.com/)
-
-**Senior Frontend Engineer** · [Betsson Group](https://betssongroup.com/) · Malta, EU · `2025–present` \
-PCI-DSS payment platform · 40M+ transactions/yr · €1B+ revenue · 15+ regulated markets · micro-frontend topology
-
-<br/>
-
-<img align="left" height="60px" width="60px" alt="Canon Medical Systems" src="./assets/images/linkedin_unknow_company_logo.jpeg"/>
-
-**Senior Engineering Consultant** · Canon Medical Systems · Remote · `2023–2025` \
-Real-time healthcare ops platform · 52% TTI improvement · 98% CSS bundle reduction · multi-site hospital network
-
-<br/>
-
-[<img align="left" height="60px" width="60px" alt="Grupo SBF" src="./assets/images/grupo_sbf_logo.jpeg" />](https://ri.gruposbf.com.br/)
-
-**React Engineer** · [Grupo SBF — Nike Brazil & Centauro](https://ri.gruposbf.com.br/) · `2021–2023` \
-8M+ monthly users · 32% page load reduction · 10% conversion lift via 20+ A/B experiments
-
-<br/>
-
-[<img align="left" height="60px" width="60px" alt="Encora Inc." src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
-
-**Frontend Engineer** · [Encora Inc. — VMware Pathfinder](https://www.encora.com/) · `2021` \
-2.1M+ cumulative hands-on labs · Redux Toolkit state architecture · ~70% regression coverage on core workflows
-
-<br/>
-
-[<img align="left" height="60px" width="60px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
-
-**Frontend Angular Engineer** · [Zup Innovation — Itaú Bank](https://www.zup.com.br/) · `2020–2021` \
-Digital banking for 70M+ customers · Web Components micro-frontend architecture · regulatory compliance flows
-
-<br/>
-
-[<img align="left" height="60px" width="60px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
-
-**Frontend & Full-Stack Engineer** · [Venturus](https://www.venturus.org.br/) · `2019–2020` \
-CCR AutoBan highway dashboards · CGO foreign trade platform · API perf 40s → <1s via query redesign
-
-<br/>
-
-[<img align="left" height="60px" width="60px" alt="MB Labs" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
-
-**Mobile & Full-Stack Developer** · [MB Labs](https://mblabs.com.br/) · `2018–2019` \
-SM Aprendizagem — offline-first edu app on 5 OSes · 80% delivery cost reduction · Hondana INDICA HR chatbot
-
-<br/>
-
-📄 Full experience and endorsements on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
-
----
-
 ## 🔧 Featured Projects
 
 **[erikunha.dev](https://erikunha.dev)** — Portfolio built on Next.js 15 + React 19 on Vercel Edge. RSC-first with intentional client islands, a streaming Anthropic LLM endpoint with prompt caching, and a CI pipeline treating LCP ≤1.8s, INP ≤200ms, and JS per-route ≤120KB gzipped as hard contracts. Built under a CLAUDE.md AI development contract with tooling-enforced constraints. `Next.js 15` `React 19` `TypeScript` `Vitest` `Playwright` `Lighthouse CI` — [github.com/erikunha/portfolio](https://github.com/erikunha/portfolio)
@@ -197,6 +142,8 @@ SM Aprendizagem — offline-first edu app on 5 OSes · 80% delivery cost reducti
 **Languages:** Portuguese (Native) · English (C1 — IELTS General Training) · Spanish (B2) · French (A2)
 
 **Community:** DevOpsDays Campinas 2024 co-organizer — led speaker sourcing and evaluation, curated a 10+ talk technical program, contributed 4 merged PRs to the [devopsdays-web](https://github.com/devopsdays/devopsdays-web) Hugo site (190 stars, 709 forks).
+
+📄 Full work history on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
 
 ---
 
