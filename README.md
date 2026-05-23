@@ -6,7 +6,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=600&height=40&lines=Building+payment+platforms+at+%E2%82%AC1B%2B+scale;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;AI-assisted+engineering+in+production;8%2B+years+%C2%B7+fintech+%C2%B7+healthcare+%C2%B7+e-commerce)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=600&height=40&lines=Building+full-stack+products+with+TypeScript+%2B+AI;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;AI-assisted+engineering+in+production;8%2B+years+%C2%B7+fintech+%C2%B7+healthcare+%C2%B7+e-commerce)](https://readme-typing-svg.demolab.com)
 
 <img align="right" height="180" src="https://github.com/erikunha/erikunha/assets/27955793/4cb19767-184a-4b90-a73c-68c06195d4d1" />
 
