@@ -24,13 +24,8 @@ const erik = {
 
 <div align="center">
 
-![](https://img.shields.io/badge/8%2B%20Years-Building-c4b5fd?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Conference-Organizer-93c5fd?style=flat-square&labelColor=1f2937)
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=erikunha&theme=cobalt2&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=erikunha&show_icons=true&theme=cobalt2&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
 </div>
 
