@@ -13,7 +13,7 @@
 ```ts
 const erik = {
   role:     "Full-Stack Engineer",
-  location: "Brazil → EU → Remote",
+  location: "Brazil - Vancouver (CA) - Malta (EU) → Brazil (Remote)",
   stack:    ["React", "Next.js", "TypeScript", "Angular", "Node.js"],
   depth:    ["micro-frontends", "RxJS", "NgRx", "Web Components"],
   aiEng:    ["12-agent Copilot setup", "Claude", "spec-driven dev"],
