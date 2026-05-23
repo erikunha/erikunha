@@ -18,7 +18,7 @@ const erik = {
   depth:    ["micro-frontends", "RxJS", "NgRx", "Web Components"],
   aiEng:    ["12-agent Copilot setup", "Claude", "spec-driven dev"],
   building: "erikunha.dev · ai-image-labeling",
-  openTo:   "senior / staff roles in EU or remote",
+  openTo:   "senior / staff roles in Brazil or USA (remote)",
 }
 ```
 
