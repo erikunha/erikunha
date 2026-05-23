@@ -46,50 +46,40 @@ const erik = {
 
 ---
 
-### 🧠 Core Technologies
+### 🧠 Core Stack
 
-<div align="left">
+**Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-<img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo" />
-<img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
-<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
-<img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo" />
-<img src="https://skillicons.dev/icons?i=tailwindcss" height="30" alt="tailwindcss logo" />
-<img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo" />
-<img src="https://skillicons.dev/icons?i=reactivex" height="30" alt="rxjs logo" />
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-b7178c?style=for-the-badge&logo=reactivex&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=black)
 
-<img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
-<img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo" />
+**Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo" />
-<img src="https://skillicons.dev/icons?i=playwright" height="30" alt="playwright logo" />
-<img src="https://skillicons.dev/icons?i=cypress" height="30" alt="cypress logo" />
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
+**Platform**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo" />
+![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazon-aws&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazon web services logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo" />
-<img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo" />
+**Testing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-<img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white)
+![RTL](https://img.shields.io/badge/Testing_Library-e33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-</div>
+**AI Engineering**
+
+![Claude](https://img.shields.io/badge/Claude-cc785c?style=for-the-badge&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1a1a1a?style=for-the-badge&logo=github&logoColor=white)
+![Multi-agent](https://img.shields.io/badge/Multi--agent_Workflows-4c1d95?style=for-the-badge&logoColor=white)
 
 ---
 
