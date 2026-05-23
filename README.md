@@ -25,9 +25,11 @@ const erik = {
 <div align="center">
 
 ![](https://img.shields.io/badge/8%2B%20Years-Building-c4b5fd?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/1-npm%20Package-6ee7b7?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/7-LLM%20Providers-fcd34d?style=flat-square&labelColor=1f2937)
-![](https://img.shields.io/badge/OSS-Contributor-f87171?style=flat-square&labelColor=1f2937)
+![](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Conference-Organizer-93c5fd?style=flat-square&labelColor=1f2937)
 
 </div>
