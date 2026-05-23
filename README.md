@@ -112,54 +112,56 @@ const erik = {
 
 ## 🧩 Work Experience
 
-[<img align="left" height="94px" width="94px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg" />](https://betssongroup.com/)
+[<img align="left" height="60px" width="60px" alt="Betsson Group" src="./assets/images/betsson_group_logo.jpeg" />](https://betssongroup.com/)
 
-**Senior Frontend Software Engineer** \
-[**Betsson Group (Malta, EU)**](https://betssongroup.com/) • Full-time \
-**Technologies**: `React.js`, `StencilJS`, `Web Components`, `Angular`, `RxJS`, `NgRx`, `TypeScript`, `Nx`, `Vite`, `Ember.js`, `Jest`, `Playwright`, `WireMock`, `GitHub Actions` \
-**Projects**: [Multi-Brand Payments Platform](https://www.betsson.com/en) — PCI-DSS cashier system processing 40M+ transactions/year and €1B+ revenue across 15+ regulated markets, 8+ languages, and 5+ brand variants.
+**Senior Frontend Engineer** · [Betsson Group](https://betssongroup.com/) · Malta, EU · `2025–present` \
+PCI-DSS payment platform · 40M+ transactions/yr · €1B+ revenue · 15+ regulated markets · micro-frontend topology
 
-<img align="left" height="94px" width="94px" alt="Canon Medical Systems" src="./assets/images/linkedin_unknow_company_logo.jpeg"/>
+<br/>
 
-**Senior Software Engineering Consultant** \
-**Canon Medical Systems (Brazil / Canada, Remote)** • Contract \
-**Technologies**: `React.js`, `TypeScript`, `TanStack Query`, `Nx`, `Vite`, `WebSocket (STOMP/SockJS)`, `PrimeReact`, `SCSS`, `Storybook`, `Jest`, `React Testing Library`, `NGINX`, `GitHub Actions` \
-**Projects**: Real-time healthcare operations system — dashboards, scheduling, and live telemetry for a multi-site regional hospital network. 52% TTI improvement, 33% JS bundle reduction, 98% CSS bundle reduction.
+<img align="left" height="60px" width="60px" alt="Canon Medical Systems" src="./assets/images/linkedin_unknow_company_logo.jpeg"/>
 
-[<img align="left" height="94px" width="94px" alt="Grupo SBF" src="./assets/images/grupo_sbf_logo.jpeg" />](https://ri.gruposbf.com.br/)
+**Senior Engineering Consultant** · Canon Medical Systems · Remote · `2023–2025` \
+Real-time healthcare ops platform · 52% TTI improvement · 98% CSS bundle reduction · multi-site hospital network
 
-**React Engineer** \
-[**Grupo SBF (Nike Brazil & Centauro)**](https://ri.gruposbf.com.br/) • Full-time \
-**Technologies**: `React.js`, `Next.js`, `TypeScript`, `SWR`, `Styled Components`, `Nx`, `SSR/SSG`, `Micro-frontends`, `Jest`, `MSW`, `GitHub Actions` \
-**Projects**: [Nike Brazil](https://www.nike.com.br/) and [Centauro](https://www.centauro.com.br/) — 8M+ monthly users across 2 brand properties. 32% page load reduction, 10% conversion lift via 20+ stop-loss-controlled A/B experiments.
+<br/>
 
-[<img align="left" height="94px" width="94px" alt="Encora Inc." src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
+[<img align="left" height="60px" width="60px" alt="Grupo SBF" src="./assets/images/grupo_sbf_logo.jpeg" />](https://ri.gruposbf.com.br/)
 
-**Frontend Engineer** \
-[**Encora Inc. (VMware Pathfinder)**](https://www.encora.com/) • Full-time \
-**Technologies**: `React.js`, `TypeScript`, `Redux Toolkit`, `React Hook Form`, `Webpack`, `SCSS`, `Jest`, `React Testing Library`, `AWS (CodePipeline, CodeBuild, S3, CloudFront)` \
-**Projects**: [VMware Pathfinder](https://pathfinder.vmware.com/) — global hands-on labs platform with 2.1M+ cumulative labs across vSphere, Tanzu, Horizon Cloud, and NSX. Introduced Redux Toolkit state management and built regression pipelines at ~70% coverage on core business workflows.
+**React Engineer** · [Grupo SBF — Nike Brazil & Centauro](https://ri.gruposbf.com.br/) · `2021–2023` \
+8M+ monthly users · 32% page load reduction · 10% conversion lift via 20+ A/B experiments
 
-[<img align="left" height="94px" width="94px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
+<br/>
 
-**Frontend Angular Software Engineer** \
-[**Zup Innovation (Itaú Bank)**](https://www.zup.com.br/) • Full-time \
-**Technologies**: `Angular`, `TypeScript`, `RxJS`, `Web Components`, `Micro-frontends`, `SCSS`, `AWS`, `Karma`, `Jasmine` \
-**Projects**: Digital banking platform for Latin America's largest bank — 70M+ customers across 18+ countries. Led modular UI architecture with Web Components enabling micro-frontend integration and decoupled release cycles across banking teams.
+[<img align="left" height="60px" width="60px" alt="Encora Inc." src="./assets/images/encorainc_logo.jpeg"/>](https://www.encora.com/)
 
-[<img align="left" height="94px" width="94px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
+**Frontend Engineer** · [Encora Inc. — VMware Pathfinder](https://www.encora.com/) · `2021` \
+2.1M+ cumulative hands-on labs · Redux Toolkit state architecture · ~70% regression coverage on core workflows
 
-**Frontend & Full-Stack Engineer** \
-[**Venturus**](https://www.venturus.org.br/) • Full-time \
-**Technologies**: `React.js`, `TypeScript`, `Redux Toolkit`, `Angular`, `Node.js`, `Express`, `PostgreSQL`, `MongoDB`, `Docker`, `Jenkins` \
-**Projects**: [CCR AutoBan](https://www.autoban.com.br/) — operational dashboards for Brazil's 320km Anhanguera-Bandeirantes highway corridor. [CGO Assessoria](http://www.cgoassessoria.com.br/) — foreign trade advisory platform; reduced reporting API execution time ~97.5% (40s → under 1s) via query redesign and PostgreSQL migration.
+<br/>
 
-[<img align="left" height="94px" width="94px" alt="MB Labs" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
+[<img align="left" height="60px" width="60px" alt="Zup Innovation" src="./assets/images/zupinnovation_logo.jpeg" />](https://www.zup.com.br/)
 
-**Mobile & Full-Stack Developer** \
-[**MB Labs**](https://mblabs.com.br/) • Contract \
-**Technologies**: `Ionic`, `Angular`, `TypeScript`, `Electron`, `SQLite`, `React.js`, `Node.js`, `Express`, `Firebase Cloud Messaging`, `MS SQL Server`, `AWS (EC2, RDS, S3, Route 53)`, `NGINX` \
-**Projects**: SM Aprendizagem (Edições SM) — offline-first cross-platform educational app on 5 OSes from a single codebase, ~80% delivery cost reduction vs native. Hondana INDICA — enterprise HR-tech chatbot used by KPMG Business School and Cia Hering (450% engagement uplift reported).
+**Frontend Angular Engineer** · [Zup Innovation — Itaú Bank](https://www.zup.com.br/) · `2020–2021` \
+Digital banking for 70M+ customers · Web Components micro-frontend architecture · regulatory compliance flows
+
+<br/>
+
+[<img align="left" height="60px" width="60px" alt="Venturus" src="./assets/images/venturus_logo.jpeg"/>](https://www.venturus.org.br/)
+
+**Frontend & Full-Stack Engineer** · [Venturus](https://www.venturus.org.br/) · `2019–2020` \
+CCR AutoBan highway dashboards · CGO foreign trade platform · API perf 40s → <1s via query redesign
+
+<br/>
+
+[<img align="left" height="60px" width="60px" alt="MB Labs" src="./assets/images/mblabs_logo.jpeg"/>](https://mblabs.com.br/)
+
+**Mobile & Full-Stack Developer** · [MB Labs](https://mblabs.com.br/) · `2018–2019` \
+SM Aprendizagem — offline-first edu app on 5 OSes · 80% delivery cost reduction · Hondana INDICA HR chatbot
+
+<br/>
+
+📄 Full experience and endorsements on [LinkedIn](https://www.linkedin.com/in/erikhenriquealvescunha/)
 
 ---
 
