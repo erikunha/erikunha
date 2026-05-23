@@ -12,15 +12,13 @@
 
 ```ts
 const erik = {
-  role:        "Senior Full-Stack Engineer",
-  location:    "Brazil → EU → Remote",
-  currentlyAt: "Betsson Group — Malta",
-  stack:       ["React", "Next.js", "TypeScript", "Angular", "Node.js"],
-  scale:       "40M+ transactions/yr · €1B+ revenue · 8M+ MAU",
-  depth:       ["micro-frontends", "RxJS", "NgRx", "Web Components"],
-  aiEng:       ["12-agent Copilot setup", "Claude", "spec-driven dev"],
-  portfolio:   "erikunha.dev",
-  openTo:      "senior / staff roles in EU or remote",
+  role:     "Full-Stack Engineer",
+  location: "Brazil → EU → Remote",
+  stack:    ["React", "Next.js", "TypeScript", "Angular", "Node.js"],
+  depth:    ["micro-frontends", "RxJS", "NgRx", "Web Components"],
+  aiEng:    ["12-agent Copilot setup", "Claude", "spec-driven dev"],
+  building: "erikunha.dev · ai-image-labeling",
+  openTo:   "senior / staff roles in EU or remote",
 }
 ```
 
