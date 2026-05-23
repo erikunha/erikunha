@@ -81,17 +81,17 @@ const erik = {
 
 ### 🚀 Highlights
 
-> **🏗️ Payment platform at scale**
-> PCI-DSS cashier · 40M+ transactions/yr · €1B+ revenue · 15+ regulated markets · micro-frontend topology
+> **🌐 erikunha.dev**
+> Next.js 15 + React 19 · RSC-first · streaming Anthropic LLM endpoint with prompt caching · Lighthouse CI with LCP ≤1.8s as a hard contract
 
-> **⚡ Measurable performance wins**
-> 52% TTI reduction · 98% CSS bundle reduction · 33% JS bundle reduction · 32% page load reduction · 12% Core Web Vitals improvement
+> **📦 ai-image-labeling**
+> TypeScript CLI + SDK · 7 LLM Vision providers (OpenAI, Anthropic, Google, Azure, Ollama, Bedrock, Vertex) · perceptual-hash dedup · published on npm
 
-> **🤖 AI-assisted engineering in production**
-> 12-agent/subagent Copilot setup · CLAUDE.md development contract · tooling-enforced constraints · spec-driven delivery
+> **🔧 OSS — react-google-maps-api #3266**
+> Fixed infinite re-render loop in a library with 700K weekly npm downloads · isolated stable-callback identity bug · shipped fix with maintainer
 
-> **🧪 Experiment-driven systems**
-> 20+ A/B experiments · 10% conversion lift · ~70% test coverage on revenue-critical journeys
+> **🎤 DevOpsDays Campinas 2024**
+> Co-organizer · curated 10+ talk technical program · 4 PRs merged to devopsdays-web Hugo site (190 stars, 709 forks)
 
 ---
 
