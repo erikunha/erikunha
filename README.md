@@ -1,7 +1,10 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=1a1a2e,16213e,0f3460&height=200&section=header&text=Hey%2C%20I%27m%20Erik%20Cunha&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlignY=55&descColor=60a5fa&animation=fadeIn)
+
 ![](https://komarev.com/ghpvc/?username=erikunha&style=flat-square)
 
-# 👋 Hello World — I'm Erik Henrique
-### Senior Full-Stack Software Engineer
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=16&pause=1000&color=58A6FF&width=600&height=40&lines=Building+payment+platforms+at+%E2%82%AC1B%2B+scale;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;AI-assisted+engineering+in+production;8%2B+years+%C2%B7+fintech+%C2%B7+healthcare+%C2%B7+e-commerce)](https://git.io/typing-svg)
 
