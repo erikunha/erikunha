@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#52](https://github.com/erikunha/portfolio/pull/52) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 🎉 Merged PR [#51](https://github.com/erikunha/portfolio/pull/51) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. 🗣 Commented on [#51](https://github.com/erikunha/portfolio/pull/51#issuecomment-4526870865) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 💪 Opened PR [#51](https://github.com/erikunha/portfolio/pull/51) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-5. 🎉 Merged PR [#50](https://github.com/erikunha/portfolio/pull/50) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+1. 💪 Opened PR [#54](https://github.com/erikunha/portfolio/pull/54) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+2. 💪 Opened PR [#53](https://github.com/erikunha/portfolio/pull/53) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+3. 🎉 Merged PR [#52](https://github.com/erikunha/portfolio/pull/52) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+4. 🔒 Closed issue [#26](https://github.com/erikunha/ai-image-labeling/issues/26) in [erikunha/ai-image-labeling](https://github.com/erikunha/ai-image-labeling)
+5. ❗ Opened issue [#26](https://github.com/erikunha/ai-image-labeling/issues/26) in [erikunha/ai-image-labeling](https://github.com/erikunha/ai-image-labeling)
 <!--END_SECTION:activity-->
 
 </details>
