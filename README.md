@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#327](https://github.com/erikunha/portfolio/pull/327#issuecomment-6601591277) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 🎉 Merged PR [#330](https://github.com/erikunha/portfolio/pull/330) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. 🎉 Merged PR [#331](https://github.com/erikunha/portfolio/pull/331) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 🗣 Commented on [#330](https://github.com/erikunha/portfolio/pull/330#issuecomment-6603910443) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-5. 🗣 Commented on [#331](https://github.com/erikunha/portfolio/pull/331#issuecomment-6603048312) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+1. 🎉 Merged PR [#251](https://github.com/erikunha/portfolio/pull/251) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+2. 🎉 Merged PR [#334](https://github.com/erikunha/portfolio/pull/334) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+3. 💪 Opened PR [#334](https://github.com/erikunha/portfolio/pull/334) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+4. 🗣 Commented on [#329](https://github.com/erikunha/portfolio/pull/329#issuecomment-6607151493) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+5. ❌ Closed PR [#333](https://github.com/erikunha/portfolio/pull/333) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
