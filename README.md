@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#344](https://github.com/erikunha/portfolio/pull/344) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 💪 Opened PR [#343](https://github.com/erikunha/portfolio/pull/343) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. 🎉 Merged PR [#342](https://github.com/erikunha/portfolio/pull/342) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 🎉 Merged PR [#341](https://github.com/erikunha/portfolio/pull/341) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-5. 💪 Opened PR [#342](https://github.com/erikunha/portfolio/pull/342) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+1. 🎉 Merged PR [#344](https://github.com/erikunha/portfolio/pull/344) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+2. ❌ Closed PR [#347](https://github.com/erikunha/portfolio/pull/347) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+3. 💪 Opened PR [#347](https://github.com/erikunha/portfolio/pull/347) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+4. 💪 Opened PR [#346](https://github.com/erikunha/portfolio/pull/346) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+5. 💪 Opened PR [#345](https://github.com/erikunha/portfolio/pull/345) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
