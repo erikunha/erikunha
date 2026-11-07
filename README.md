@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#363](https://github.com/erikunha/portfolio/pull/363) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 🎉 Merged PR [#366](https://github.com/erikunha/portfolio/pull/366) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. 💪 Opened PR [#370](https://github.com/erikunha/portfolio/pull/370) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 🎉 Merged PR [#365](https://github.com/erikunha/portfolio/pull/365) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-5. 🎉 Merged PR [#367](https://github.com/erikunha/portfolio/pull/367) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+1. 🎉 Merged PR [#11](https://github.com/erikunha/vault-of-loci/pull/11) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+2. 💪 Opened PR [#11](https://github.com/erikunha/vault-of-loci/pull/11) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+3. 🎉 Merged PR [#10](https://github.com/erikunha/vault-of-loci/pull/10) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+4. 💪 Opened PR [#10](https://github.com/erikunha/vault-of-loci/pull/10) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+5. 🎉 Merged PR [#9](https://github.com/erikunha/vault-of-loci/pull/9) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
 <!--END_SECTION:activity-->
 
 </details>
