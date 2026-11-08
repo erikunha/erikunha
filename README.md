@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#383](https://github.com/erikunha/portfolio/pull/383) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 🎉 Merged PR [#378](https://github.com/erikunha/portfolio/pull/378) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. 💪 Opened PR [#382](https://github.com/erikunha/portfolio/pull/382) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 🗣 Commented on [#23](https://github.com/erikunha/vault-of-loci/pull/23#issuecomment-6715717042) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
-5. ❌ Closed PR [#23](https://github.com/erikunha/vault-of-loci/pull/23) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+1. 🎉 Merged PR [#387](https://github.com/erikunha/portfolio/pull/387) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+2. 💪 Opened PR [#387](https://github.com/erikunha/portfolio/pull/387) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+3. ❌ Closed PR [#1](https://github.com/erikunha/ledgerlens/pull/1) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+4. ❌ Closed PR [#2](https://github.com/erikunha/ledgerlens/pull/2) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+5. ❌ Closed PR [#3](https://github.com/erikunha/ledgerlens/pull/3) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
 <!--END_SECTION:activity-->
 
 </details>
