@@ -186,11 +186,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault/pull/33) in [obsidian-pkm-vault/awesome-obsidian-vault](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
-2. 💪 Opened PR [#168](https://github.com/backend-br/opensource-br/pull/168) in [backend-br/opensource-br](https://github.com/backend-br/opensource-br)
-3. 🚀 Published release [v0.5.0: tutor record, new tools and eval scenarios 13 to 17](https://github.com/erikunha/vault-of-loci/releases/tag/v0.5.0) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
-4. 🎉 Merged PR [#386](https://github.com/erikunha/portfolio/pull/386) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-5. 🎉 Merged PR [#385](https://github.com/erikunha/portfolio/pull/385) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+1. 🎉 Merged PR [#32](https://github.com/erikunha/vault-of-loci/pull/32) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+2. 💪 Opened PR [#32](https://github.com/erikunha/vault-of-loci/pull/32) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
+3. 🎉 Merged PR [#393](https://github.com/erikunha/portfolio/pull/393) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+4. 💪 Opened PR [#396](https://github.com/erikunha/portfolio/pull/396) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+5. 🎉 Merged PR [#31](https://github.com/erikunha/vault-of-loci/pull/31) in [erikunha/vault-of-loci](https://github.com/erikunha/vault-of-loci)
 <!--END_SECTION:activity-->
 
 </details>
