@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/8abe611f5b602fffb6e2e886653aab58d5090684/banner.svg" alt="Erik Cunha, Full-Stack Engineer · AI Engineer | LLM Systems, Agents, Evals, Guardrails, RAG, MCP" width="100%" />
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/c048e93882d28f2453257c911c695fde9aece828/banner.svg" alt="Erik Cunha, Full-Stack Engineer · AI Engineer | LLM Systems, Agents, Evals, Guardrails, RAG, MCP" width="100%" />
 </p>
 
 <p align="center">
