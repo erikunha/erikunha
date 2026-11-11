@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Software+Engineer%2C+AI+Engineer;LLM+Systems+%C2%B7+Evals+%C2%B7+Agents+%C2%B7+Guardrails;MCP+%C2%B7+Prompt+Engineering+%C2%B7+LLM-as-Judge;AI-Native+Products+%C2%B7+Accessibility+%C2%B7+Web+Performance;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Angular;Node.js+%C2%B7+Fastify+%C2%B7+PostgreSQL+%C2%B7+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Software+Engineer%2C+AI+Engineer;LLM+Systems+%C2%B7+Evals+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+MCP;LLM-as-Judge+%C2%B7+Prompt-Injection+Defense+%C2%B7+Kill+Switches;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Angular;Fastify+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+Vercel;Playwright+%C2%B7+Vitest+%C2%B7+Jest+%C2%B7+Storybook+%C2%B7+MSW" alt="Typing SVG" />
   </a>
 </p>
 
@@ -96,76 +96,149 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Stack</h2></summary>
 
-  <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41" />
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00ff41" />
-  </p>
-
-  <h3>🤖 AI and LLM</h3>
+  <h3>🤖 LLM systems &amp; evaluation</h3>
   <p>
     <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=00ff41" />
+    <img alt="Google Generative AI" src="https://img.shields.io/badge/Google_Generative_AI-000000?style=flat-square&logo=google&logoColor=00ff41" />
+    <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex_AI-000000?style=flat-square&logo=googlecloud&logoColor=00ff41" />
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=00ff41" />
     <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
+    <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=00ff41" />
+    <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00ff41" />
+    <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
+    <img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-000000?style=flat-square&color=39ff5e" />
+    <img alt="pass@k" src="https://img.shields.io/badge/pass%40k-000000?style=flat-square&color=39ff5e" />
+    <img alt="Eval harness" src="https://img.shields.io/badge/Eval_Harness-000000?style=flat-square&color=39ff5e" />
+    <img alt="Model routing" src="https://img.shields.io/badge/Model_Routing-000000?style=flat-square&color=39ff5e" />
+    <img alt="Cost caps" src="https://img.shields.io/badge/Per--Job_Cost_Caps-000000?style=flat-square&color=39ff5e" />
+    <img alt="Prompt versioning" src="https://img.shields.io/badge/Prompt_Versioning-000000?style=flat-square&color=39ff5e" />
+    <img alt="Model-drift detection" src="https://img.shields.io/badge/Model--Drift_Detection-000000?style=flat-square&color=39ff5e" />
+    <img alt="Failure taxonomies" src="https://img.shields.io/badge/Failure_Taxonomies-000000?style=flat-square&color=39ff5e" />
+  </p>
+
+  <h3>🧠 Agents &amp; guardrails</h3>
+  <p>
     <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
-    <img alt="LLM Evaluation" src="https://img.shields.io/badge/LLM_Evaluation-000000?style=flat-square&logo=pytest&logoColor=00ff41" />
+    <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
+    <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=00ff41" />
+    <img alt="Tool-surface design" src="https://img.shields.io/badge/Tool--Surface_Design-000000?style=flat-square&color=39ff5e" />
+    <img alt="Sub-agent orchestration" src="https://img.shields.io/badge/Sub--Agent_Orchestration-000000?style=flat-square&color=39ff5e" />
+    <img alt="Context engineering" src="https://img.shields.io/badge/Context_Engineering-000000?style=flat-square&color=39ff5e" />
+    <img alt="Prompt-injection defense" src="https://img.shields.io/badge/Prompt--Injection_Defense-000000?style=flat-square&color=39ff5e" />
+    <img alt="Streaming leak detection" src="https://img.shields.io/badge/Streaming_Leak_Detection-000000?style=flat-square&color=39ff5e" />
+    <img alt="Kill switches" src="https://img.shields.io/badge/Kill_Switches-000000?style=flat-square&color=39ff5e" />
+    <img alt="Guard policies" src="https://img.shields.io/badge/Guard_Policies-000000?style=flat-square&color=39ff5e" />
+    <img alt="Spec-driven development" src="https://img.shields.io/badge/Spec--Driven_Development-000000?style=flat-square&color=39ff5e" />
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+  <h3>🗄️ Backend &amp; data</h3>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41" />
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=00ff41" />
-    <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00ff41" />
-    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41" />
     <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=00ff41" />
-    <img alt="RxJS" src="https://img.shields.io/badge/RxJS-000000?style=flat-square&logo=reactivex&logoColor=00ff41" />
-    <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=reactivex&logoColor=ffd86b" />
-    <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=00ff41" />
-    <img alt="TanStack Query" src="https://img.shields.io/badge/TanStack_Query-000000?style=flat-square&logo=reactquery&logoColor=00ff41" />
-    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00ff41" />
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=00ff41" />
-    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-000000?style=flat-square&logo=storybook&logoColor=00ff41" />
-    <img alt="Ionic" src="https://img.shields.io/badge/Ionic-000000?style=flat-square&logo=ionic&logoColor=00ff41" />
-    <img alt="Electron" src="https://img.shields.io/badge/Electron-000000?style=flat-square&logo=electron&logoColor=00ff41" />
-    <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=00ff41" />
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=00ff41" />
-    <img alt="React Testing Library" src="https://img.shields.io/badge/Testing_Library-000000?style=flat-square&logo=testinglibrary&logoColor=00ff41" />
-    <img alt="MSW" src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=msw&logoColor=00ff41" />
-  </p>
-
-  <h3>🗄️ Databases and Cloud Hosting</h3>
-  <p>
+    <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41" />
+    <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&color=39ff5e" />
+    <img alt="JSON:API" src="https://img.shields.io/badge/JSON%3AAPI-000000?style=flat-square&color=39ff5e" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00ff41" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41" />
     <img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=00ff41" />
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00ff41" />
-    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
+    <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-000000?style=flat-square&logo=typeorm&logoColor=00ff41" />
+    <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=00ff41" />
+    <img alt="BFF layers" src="https://img.shields.io/badge/BFF_Layers-000000?style=flat-square&color=39ff5e" />
+    <img alt="WebSocket streaming" src="https://img.shields.io/badge/WebSocket_Streaming-000000?style=flat-square&color=39ff5e" />
+    <img alt="ETL pipelines" src="https://img.shields.io/badge/ETL_Pipelines-000000?style=flat-square&color=39ff5e" />
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>🖥️ Product engineering</h3>
   <p>
-    <img alt="Micro-frontends" src="https://img.shields.io/badge/Micro--frontends-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
+    <img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41" />
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41" />
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
+    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=00ff41" />
+    <img alt="TanStack" src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=reactquery&logoColor=00ff41" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00ff41" />
+    <img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-000000?style=flat-square&logo=radixui&logoColor=00ff41" />
+    <img alt="styled-components" src="https://img.shields.io/badge/styled--components-000000?style=flat-square&logo=styledcomponents&logoColor=00ff41" />
+    <img alt="Storybook" src="https://img.shields.io/badge/Storybook-000000?style=flat-square&logo=storybook&logoColor=00ff41" />
+    <img alt="RxJS" src="https://img.shields.io/badge/RxJS-000000?style=flat-square&logo=reactivex&logoColor=00ff41" />
+    <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=reactivex&logoColor=ffd86b" />
+    <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=00ff41" />
     <img alt="Web Components" src="https://img.shields.io/badge/Web_Components-000000?style=flat-square&logo=webcomponentsdotorg&logoColor=00ff41" />
-    <img alt="Nx Monorepo" src="https://img.shields.io/badge/Nx_Monorepo-000000?style=flat-square&logo=nx&logoColor=00ff41" />
+    <img alt="StencilJS" src="https://img.shields.io/badge/StencilJS-000000?style=flat-square&color=39ff5e" />
+    <img alt="Nx monorepo" src="https://img.shields.io/badge/Nx_Monorepo-000000?style=flat-square&logo=nx&logoColor=00ff41" />
     <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff41" />
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
+    <img alt="Micro-frontends" src="https://img.shields.io/badge/Micro--frontends-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
+    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=00ff41" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00ff41" />
+    <img alt="Design systems" src="https://img.shields.io/badge/Design_Systems-000000?style=flat-square&color=39ff5e" />
+    <img alt="SSR and SSG" src="https://img.shields.io/badge/SSR_%2F_SSG-000000?style=flat-square&color=39ff5e" />
+    <img alt="WAI-ARIA" src="https://img.shields.io/badge/WAI--ARIA-000000?style=flat-square&color=39ff5e" />
+    <img alt="i18n" src="https://img.shields.io/badge/i18n-000000?style=flat-square&color=39ff5e" />
+    <img alt="Technical SEO" src="https://img.shields.io/badge/Technical_SEO-000000?style=flat-square&color=39ff5e" />
+  </p>
+
+  <h3>🚀 Platform, delivery &amp; quality</h3>
+  <p>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41" />
     <img alt="NGINX" src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=00ff41" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00ff41" />
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=00ff41" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=00ff41" />
     <img alt="Sentry" src="https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=00ff41" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00ff41" />
-    <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visual-studio-code&logoColor=00ff41" />
+    <img alt="Husky" src="https://img.shields.io/badge/Husky-000000?style=flat-square&color=39ff5e" />
+    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=00ff41" />
+    <img alt="Vitest" src="https://img.shields.io/badge/Vitest-000000?style=flat-square&logo=vitest&logoColor=00ff41" />
+    <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=00ff41" />
+    <img alt="React Testing Library" src="https://img.shields.io/badge/Testing_Library-000000?style=flat-square&logo=testinglibrary&logoColor=00ff41" />
+    <img alt="MSW" src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=msw&logoColor=00ff41" />
+    <img alt="WireMock" src="https://img.shields.io/badge/WireMock-000000?style=flat-square&color=39ff5e" />
+    <img alt="Stryker" src="https://img.shields.io/badge/Stryker-000000?style=flat-square&color=39ff5e" />
+    <img alt="Mutation testing" src="https://img.shields.io/badge/Mutation_Testing-000000?style=flat-square&color=39ff5e" />
+    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&color=39ff5e" />
+    <img alt="Core Web Vitals" src="https://img.shields.io/badge/Core_Web_Vitals-000000?style=flat-square&color=39ff5e" />
+    <img alt="WCAG 2.2 AA" src="https://img.shields.io/badge/WCAG_2.2_AA-000000?style=flat-square&color=39ff5e" />
+  </p>
+
+</details>
+
+<details open>
+  <summary><h2>🎓 Education, Certifications &amp; Community</h2></summary>
+
+  <h3>🎓 Education</h3>
+  <p>
+    <b>MBA (Lato Sensu), AI Engineering, Machine Learning and Deep Learning</b>, expected Dec 2027 · Instituto Infnet, Brazil (online)<br />
+    Coursework: ML and deep learning with PyTorch, LLM applications and RAG, multi-agent systems with LangChain and LangGraph<br />
+    <b>Web Development Co-op Diploma</b>, 2023 - 2024 · Cornerstone International Community College<br />
+    <b>B.S. Information Systems</b>, 2015 - 2020 · Centro Universitário Salesiano de São Paulo
+  </p>
+
+  <h3>🏅 Certifications &amp; languages</h3>
+  <p>
+    <img alt="Angular Developer Certification" src="https://img.shields.io/badge/Angular_Developer_Certification-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+    <img alt="WES verified" src="https://img.shields.io/badge/WES_Verified-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+    <img alt="Portuguese native" src="https://img.shields.io/badge/Portuguese-Native-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+    <img alt="English C1" src="https://img.shields.io/badge/English-C1_IELTS-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+    <img alt="Spanish B1" src="https://img.shields.io/badge/Spanish-B1-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+    <img alt="French A2" src="https://img.shields.io/badge/French-A2-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+  </p>
+
+  <h3>🗣️ Community</h3>
+  <p>
+    Organizer of <b>DevOpsDays Campinas 2024</b>, one of nine on the team: curated 8 talks across DevOps, cloud
+    infrastructure, platform engineering and architecture, and ran the whole speaker cycle from the CFP launch
+    through review, selection, program design, day-of and wrap.
   </p>
 
 </details>
