@@ -103,7 +103,6 @@
     <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claudecode&logoColor=00ff41" />
     <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00ff41" />
-    <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
   </p>
 
   <h3>🗄️ Backend &amp; data</h3>
@@ -121,6 +120,7 @@
 
   <h3>🖥️ Product engineering</h3>
   <p>
+    <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
     <img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41" />
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41" />
     <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
