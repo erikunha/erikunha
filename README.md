@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.png" alt="Erik Cunha — Senior Software Engineer, AI Engineer" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Software+Engineer%2C+AI+Engineer;LLM+Systems+%C2%B7+Evals+%C2%B7+Agents+%C2%B7+RAG+%C2%B7+Guardrails+%C2%B7+MCP;LLM-as-Judge+%C2%B7+Prompt-Injection+Defense+%C2%B7+Kill+Switches;TypeScript+%C2%B7+Python+%C2%B7+Node.js+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Angular;Fastify+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+Docker+%C2%B7+AWS+%C2%B7+Vercel;Playwright+%C2%B7+Vitest+%C2%B7+Jest+%C2%B7+Storybook+%C2%B7+MSW" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.png" alt="Erik Cunha, Senior Software Engineer, AI Engineer | LLM Systems, Agents, Evals, Guardrails, RAG, MCP" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +8,7 @@
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/erikunha" title="LinkedIn">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=00ff41" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&color=39ff5e" />
   </a>
   &nbsp;
   <a href="https://github.com/erikunha" title="GitHub">
@@ -35,20 +29,6 @@
   &nbsp;
   <img alt="profile views" src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fkomarev.com%2Fghpvc%2F%3Fusername%3D%65%72%69%6B%75%6E%68%61&label=Views&query=%28%2F%2F*%5Blocal-name%28%29%3D%27text%27%5D%29%5Blast%28%29%5D&color=39ff5e&labelColor=000000&style=flat-square" />
 </p>
-
-<br/>
-
-<p align="center">
-  <img alt="€1.197B group revenue" src="https://img.shields.io/badge/%E2%82%AC1.197B_group-revenue-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-  &nbsp;
-  <img alt="40M+ transactions/year processed" src="https://img.shields.io/badge/40M%2B_txns%2Fyear-processed-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-  &nbsp;
-  <img alt="8M+ monthly users served" src="https://img.shields.io/badge/8M%2B_monthly-users_served-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-  &nbsp;
-  <img alt="24.2M digital clients" src="https://img.shields.io/badge/24.2M_digital-clients-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-</p>
-
-<br/>
 
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -101,13 +81,13 @@
   <h3>🤖 LLM systems &amp; evaluation</h3>
   <p>
     <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
-    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=00ff41" />
+    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&color=39ff5e" />
     <img alt="Google Generative AI" src="https://img.shields.io/badge/Google_Generative_AI-000000?style=flat-square&logo=google&logoColor=00ff41" />
     <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex_AI-000000?style=flat-square&logo=googlecloud&logoColor=00ff41" />
     <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=00ff41" />
     <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
-    <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&logo=langfuse&logoColor=00ff41" />
+    <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&color=39ff5e" />
     <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00ff41" />
     <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
     <img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-000000?style=flat-square&color=39ff5e" />
@@ -115,7 +95,7 @@
     <img alt="Eval harness" src="https://img.shields.io/badge/Eval_Harness-000000?style=flat-square&color=39ff5e" />
     <img alt="Model routing" src="https://img.shields.io/badge/Model_Routing-000000?style=flat-square&color=39ff5e" />
     <img alt="Cost caps" src="https://img.shields.io/badge/Per--Job_Cost_Caps-000000?style=flat-square&color=39ff5e" />
-    <img alt="Prompt versioning" src="https://img.shields.io/badge/Prompt_Versioning-000000?style=flat-square&color=39ff5e" />
+    <img alt="Prompt versioning" src="https://img.shields.io/badge/Prompt_Versioning-000000?style=flat-square&logo=git&logoColor=00ff41" />
     <img alt="Model-drift detection" src="https://img.shields.io/badge/Model--Drift_Detection-000000?style=flat-square&color=39ff5e" />
     <img alt="Failure taxonomies" src="https://img.shields.io/badge/Failure_Taxonomies-000000?style=flat-square&color=39ff5e" />
   </p>
@@ -124,14 +104,14 @@
   <p>
     <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
-    <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=00ff41" />
-    <img alt="Tool-surface design" src="https://img.shields.io/badge/Tool--Surface_Design-000000?style=flat-square&color=39ff5e" />
-    <img alt="Sub-agent orchestration" src="https://img.shields.io/badge/Sub--Agent_Orchestration-000000?style=flat-square&color=39ff5e" />
+    <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&color=39ff5e" />
+    <img alt="Tool-surface design" src="https://img.shields.io/badge/Tool--Surface_Design-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
+    <img alt="Sub-agent orchestration" src="https://img.shields.io/badge/Sub--Agent_Orchestration-000000?style=flat-square&logo=langgraph&logoColor=00ff41" />
     <img alt="Context engineering" src="https://img.shields.io/badge/Context_Engineering-000000?style=flat-square&color=39ff5e" />
-    <img alt="Prompt-injection defense" src="https://img.shields.io/badge/Prompt--Injection_Defense-000000?style=flat-square&color=39ff5e" />
+    <img alt="Prompt-injection defense" src="https://img.shields.io/badge/Prompt--Injection_Defense-000000?style=flat-square&logo=owasp&logoColor=00ff41" />
     <img alt="Streaming leak detection" src="https://img.shields.io/badge/Streaming_Leak_Detection-000000?style=flat-square&color=39ff5e" />
     <img alt="Kill switches" src="https://img.shields.io/badge/Kill_Switches-000000?style=flat-square&color=39ff5e" />
-    <img alt="Guard policies" src="https://img.shields.io/badge/Guard_Policies-000000?style=flat-square&color=39ff5e" />
+    <img alt="Guard policies" src="https://img.shields.io/badge/Guard_Policies-000000?style=flat-square&logo=owasp&logoColor=00ff41" />
     <img alt="Spec-driven development" src="https://img.shields.io/badge/Spec--Driven_Development-000000?style=flat-square&color=39ff5e" />
   </p>
 
@@ -141,18 +121,15 @@
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41" />
     <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=00ff41" />
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41" />
-    <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&color=39ff5e" />
-    <img alt="JSON:API" src="https://img.shields.io/badge/JSON%3AAPI-000000?style=flat-square&color=39ff5e" />
+    <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=swagger&logoColor=00ff41" />
+    <img alt="JSON:API" src="https://img.shields.io/badge/JSON%3AAPI-000000?style=flat-square&logo=json&logoColor=00ff41" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00ff41" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41" />
-    <img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=00ff41" />
+    <img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&color=39ff5e" />
     <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-000000?style=flat-square&logo=typeorm&logoColor=00ff41" />
     <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=00ff41" />
-    <img alt="BFF layers" src="https://img.shields.io/badge/BFF_Layers-000000?style=flat-square&color=39ff5e" />
-    <img alt="WebSocket streaming" src="https://img.shields.io/badge/WebSocket_Streaming-000000?style=flat-square&color=39ff5e" />
-    <img alt="ETL pipelines" src="https://img.shields.io/badge/ETL_Pipelines-000000?style=flat-square&color=39ff5e" />
   </p>
 
   <h3>🖥️ Product engineering</h3>
@@ -163,7 +140,7 @@
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41" />
     <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=00ff41" />
-    <img alt="TanStack" src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=reactquery&logoColor=00ff41" />
+    <img alt="TanStack" src="https://img.shields.io/badge/TanStack-000000?style=flat-square&logo=tanstack&logoColor=00ff41" />
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=00ff41" />
     <img alt="Radix UI" src="https://img.shields.io/badge/Radix_UI-000000?style=flat-square&logo=radixui&logoColor=00ff41" />
     <img alt="styled-components" src="https://img.shields.io/badge/styled--components-000000?style=flat-square&logo=styledcomponents&logoColor=00ff41" />
@@ -172,73 +149,33 @@
     <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=reactivex&logoColor=ffd86b" />
     <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=00ff41" />
     <img alt="Web Components" src="https://img.shields.io/badge/Web_Components-000000?style=flat-square&logo=webcomponentsdotorg&logoColor=00ff41" />
-    <img alt="StencilJS" src="https://img.shields.io/badge/StencilJS-000000?style=flat-square&color=39ff5e" />
+    <img alt="StencilJS" src="https://img.shields.io/badge/StencilJS-000000?style=flat-square&logo=stencil&logoColor=00ff41" />
     <img alt="Nx monorepo" src="https://img.shields.io/badge/Nx_Monorepo-000000?style=flat-square&logo=nx&logoColor=00ff41" />
     <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff41" />
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
     <img alt="Micro-frontends" src="https://img.shields.io/badge/Micro--frontends-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
     <img alt="SCSS" src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=00ff41" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41" />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00ff41" />
-    <img alt="Design systems" src="https://img.shields.io/badge/Design_Systems-000000?style=flat-square&color=39ff5e" />
-    <img alt="SSR and SSG" src="https://img.shields.io/badge/SSR_%2F_SSG-000000?style=flat-square&color=39ff5e" />
-    <img alt="WAI-ARIA" src="https://img.shields.io/badge/WAI--ARIA-000000?style=flat-square&color=39ff5e" />
-    <img alt="i18n" src="https://img.shields.io/badge/i18n-000000?style=flat-square&color=39ff5e" />
-    <img alt="Technical SEO" src="https://img.shields.io/badge/Technical_SEO-000000?style=flat-square&color=39ff5e" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css&logoColor=00ff41" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41" />
   </p>
 
   <h3>🚀 Platform, delivery &amp; quality</h3>
   <p>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41" />
     <img alt="NGINX" src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=00ff41" />
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00ff41" />
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&color=39ff5e" />
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
-    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=00ff41" />
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=00ff41" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=00ff41" />
     <img alt="Sentry" src="https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=00ff41" />
-    <img alt="Husky" src="https://img.shields.io/badge/Husky-000000?style=flat-square&color=39ff5e" />
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=00ff41" />
+    <img alt="Husky" src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=00ff41" />
+    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&color=39ff5e" />
     <img alt="Vitest" src="https://img.shields.io/badge/Vitest-000000?style=flat-square&logo=vitest&logoColor=00ff41" />
     <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=00ff41" />
     <img alt="React Testing Library" src="https://img.shields.io/badge/Testing_Library-000000?style=flat-square&logo=testinglibrary&logoColor=00ff41" />
-    <img alt="MSW" src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=msw&logoColor=00ff41" />
-    <img alt="WireMock" src="https://img.shields.io/badge/WireMock-000000?style=flat-square&color=39ff5e" />
-    <img alt="Stryker" src="https://img.shields.io/badge/Stryker-000000?style=flat-square&color=39ff5e" />
-    <img alt="Mutation testing" src="https://img.shields.io/badge/Mutation_Testing-000000?style=flat-square&color=39ff5e" />
-    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&color=39ff5e" />
-    <img alt="Core Web Vitals" src="https://img.shields.io/badge/Core_Web_Vitals-000000?style=flat-square&color=39ff5e" />
-    <img alt="WCAG 2.2 AA" src="https://img.shields.io/badge/WCAG_2.2_AA-000000?style=flat-square&color=39ff5e" />
-  </p>
-
-</details>
-
-<details open>
-  <summary><h2>🎓 Education, Certifications &amp; Community</h2></summary>
-
-  <h3>🎓 Education</h3>
-  <p>
-    <b>MBA (Lato Sensu), AI Engineering, Machine Learning and Deep Learning</b>, expected Dec 2027 · Instituto Infnet, Brazil (online)<br />
-    Coursework: ML and deep learning with PyTorch, LLM applications and RAG, multi-agent systems with LangChain and LangGraph<br />
-    <b>Web Development Co-op Diploma</b>, 2023 - 2024 · Cornerstone International Community College<br />
-    <b>B.S. Information Systems</b>, 2015 - 2020 · Centro Universitário Salesiano de São Paulo
-  </p>
-
-  <h3>🏅 Certifications &amp; languages</h3>
-  <p>
-    <img alt="Angular Developer Certification" src="https://img.shields.io/badge/Angular_Developer_Certification-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-    <img alt="WES verified" src="https://img.shields.io/badge/WES_Verified-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-    <img alt="Portuguese native" src="https://img.shields.io/badge/Portuguese-Native-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-    <img alt="English C1" src="https://img.shields.io/badge/English-C1_IELTS-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-    <img alt="Spanish B1" src="https://img.shields.io/badge/Spanish-B1-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-    <img alt="French A2" src="https://img.shields.io/badge/French-A2-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
-  </p>
-
-  <h3>🗣️ Community</h3>
-  <p>
-    Organizer of <b>DevOpsDays Campinas 2024</b>, one of nine on the team: curated 8 talks across DevOps, cloud
-    infrastructure, platform engineering and architecture, and ran the whole speaker cycle from the CFP launch
-    through review, selection, program design, day-of and wrap.
+    <img alt="MSW" src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=mockserviceworker&logoColor=00ff41" />
+    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=00ff41" />
   </p>
 
 </details>
