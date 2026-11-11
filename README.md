@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.png" alt="Erik Cunha — Senior Full-Stack Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.png" alt="Erik Cunha — Senior Software Engineer, AI Engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Full-Stack+Engineer;Frontend+Architecture+%C2%B7+Platform+Engineering;AI+Applied+Engineering;Accessibility+%C2%B7+Web+Performance;High-Traffic+Apps+at+Scale;React+%C2%B7+Next.js+%C2%B7+Angular+%C2%B7+TypeScript;Node.js+%C2%B7+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=45&lines=Senior+Software+Engineer%2C+AI+Engineer;LLM+Systems+%C2%B7+Evals+%C2%B7+Agents+%C2%B7+Guardrails;MCP+%C2%B7+Prompt+Engineering+%C2%B7+LLM-as-Judge;AI-Native+Products+%C2%B7+Accessibility+%C2%B7+Web+Performance;TypeScript+%C2%B7+Python+%C2%B7+React+%C2%B7+Next.js+%C2%B7+Angular;Node.js+%C2%B7+Fastify+%C2%B7+PostgreSQL+%C2%B7+AWS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,13 +39,13 @@
 <br/>
 
 <p align="center">
-  <img alt="€1B+ revenue systems built" src="https://img.shields.io/badge/%E2%82%AC1B%2B_revenue-systems_built-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+  <img alt="€1.197B group revenue" src="https://img.shields.io/badge/%E2%82%AC1.197B_group-revenue-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
   &nbsp;
   <img alt="40M+ transactions/year processed" src="https://img.shields.io/badge/40M%2B_txns%2Fyear-processed-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
   &nbsp;
   <img alt="8M+ monthly users served" src="https://img.shields.io/badge/8M%2B_monthly-users_served-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
   &nbsp;
-  <img alt="70M+ customers reached" src="https://img.shields.io/badge/70M%2B_customers-reached-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
+  <img alt="24.2M digital clients" src="https://img.shields.io/badge/24.2M_digital-clients-000000?style=for-the-badge&labelColor=39ff5e&color=000000" />
 </p>
 
 <br/>
@@ -57,8 +57,17 @@
     <a href="https://github.com/erikunha/portfolio">
       <img width="400" src="https://github-readme-stats-omega-nine-69.vercel.app/api/pin/?username=erikunha&repo=portfolio&bg_color=000000&title_color=00ff41&icon_color=ffd86b&text_color=e6ffe6&hide_border=true" alt="portfolio" />
     </a>
-    <a href="https://github.com/erikunha/ai-image-labeling">
-      <img width="400" src="https://github-readme-stats-omega-nine-69.vercel.app/api/pin/?username=erikunha&repo=ai-image-labeling&bg_color=000000&title_color=00ff41&icon_color=ffd86b&text_color=e6ffe6&hide_border=true" alt="ai-image-labeling" />
+    <a href="https://github.com/erikunha/ledgerlens">
+      <img width="400" src="https://github-readme-stats-omega-nine-69.vercel.app/api/pin/?username=erikunha&repo=ledgerlens&bg_color=000000&title_color=00ff41&icon_color=ffd86b&text_color=e6ffe6&hide_border=true" alt="ledgerlens" />
+    </a>
+  </p>
+
+  <p align="left">
+    <a href="https://github.com/erikunha/LAIbemage">
+      <img width="400" src="https://github-readme-stats-omega-nine-69.vercel.app/api/pin/?username=erikunha&repo=LAIbemage&bg_color=000000&title_color=00ff41&icon_color=ffd86b&text_color=e6ffe6&hide_border=true" alt="LAIbemage" />
+    </a>
+    <a href="https://github.com/erikunha/vault-of-loci">
+      <img width="400" src="https://github-readme-stats-omega-nine-69.vercel.app/api/pin/?username=erikunha&repo=vault-of-loci&bg_color=000000&title_color=00ff41&icon_color=ffd86b&text_color=e6ffe6&hide_border=true" alt="vault-of-loci" />
     </a>
   </p>
 
@@ -92,11 +101,21 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00ff41" />
     <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=00ff41" />
+  </p>
+
+  <h3>🤖 AI and LLM</h3>
+  <p>
+    <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
+    <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
+    <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
+    <img alt="LLM Evaluation" src="https://img.shields.io/badge/LLM_Evaluation-000000?style=flat-square&logo=pytest&logoColor=00ff41" />
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -106,6 +125,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=00ff41" />
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41" />
+    <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=00ff41" />
     <img alt="RxJS" src="https://img.shields.io/badge/RxJS-000000?style=flat-square&logo=reactivex&logoColor=00ff41" />
     <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=reactivex&logoColor=ffd86b" />
     <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=00ff41" />
@@ -125,6 +145,7 @@
   <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41" />
+    <img alt="Redis" src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00ff41" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41" />
     <img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&logo=microsoft-sql-server&logoColor=00ff41" />
     <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=00ff41" />
