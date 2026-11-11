@@ -78,64 +78,45 @@
 <details open>
   <summary><h2>🛠️ My Stack</h2></summary>
 
-  <h3>🤖 LLM systems &amp; evaluation</h3>
+  <h3>💻 Languages</h3>
   <p>
-    <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
-    <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&color=39ff5e" />
-    <img alt="Google Generative AI" src="https://img.shields.io/badge/Google_Generative_AI-000000?style=flat-square&logo=google&logoColor=00ff41" />
-    <img alt="Vertex AI" src="https://img.shields.io/badge/Vertex_AI-000000?style=flat-square&logo=googlecloud&logoColor=00ff41" />
-    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=00ff41" />
-    <img alt="Vercel AI SDK" src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
-    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
-    <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-000000?style=flat-square&color=39ff5e" />
-    <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00ff41" />
-    <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
-    <img alt="LLM-as-Judge" src="https://img.shields.io/badge/LLM--as--Judge-000000?style=flat-square&color=39ff5e" />
-    <img alt="pass@k" src="https://img.shields.io/badge/pass%40k-000000?style=flat-square&color=39ff5e" />
-    <img alt="Eval harness" src="https://img.shields.io/badge/Eval_Harness-000000?style=flat-square&color=39ff5e" />
-    <img alt="Model routing" src="https://img.shields.io/badge/Model_Routing-000000?style=flat-square&color=39ff5e" />
-    <img alt="Cost caps" src="https://img.shields.io/badge/Per--Job_Cost_Caps-000000?style=flat-square&color=39ff5e" />
-    <img alt="Prompt versioning" src="https://img.shields.io/badge/Prompt_Versioning-000000?style=flat-square&logo=git&logoColor=00ff41" />
-    <img alt="Model-drift detection" src="https://img.shields.io/badge/Model--Drift_Detection-000000?style=flat-square&color=39ff5e" />
-    <img alt="Failure taxonomies" src="https://img.shields.io/badge/Failure_Taxonomies-000000?style=flat-square&color=39ff5e" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css&logoColor=00ff41" />
+    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=00ff41" />
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41" />
   </p>
 
-  <h3>🧠 Agents &amp; guardrails</h3>
+  <h3>🤖 AI &amp; agents</h3>
   <p>
+    <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
+    <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=00ff41" />
+    <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=00ff41" />
+    <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
+    <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=00ff41" />
     <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
-    <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=00ff41" />
-    <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=flat-square&color=39ff5e" />
-    <img alt="Tool-surface design" src="https://img.shields.io/badge/Tool--Surface_Design-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
-    <img alt="Sub-agent orchestration" src="https://img.shields.io/badge/Sub--Agent_Orchestration-000000?style=flat-square&logo=langgraph&logoColor=00ff41" />
-    <img alt="Context engineering" src="https://img.shields.io/badge/Context_Engineering-000000?style=flat-square&color=39ff5e" />
-    <img alt="Prompt-injection defense" src="https://img.shields.io/badge/Prompt--Injection_Defense-000000?style=flat-square&logo=owasp&logoColor=00ff41" />
-    <img alt="Streaming leak detection" src="https://img.shields.io/badge/Streaming_Leak_Detection-000000?style=flat-square&color=39ff5e" />
-    <img alt="Kill switches" src="https://img.shields.io/badge/Kill_Switches-000000?style=flat-square&color=39ff5e" />
-    <img alt="Guard policies" src="https://img.shields.io/badge/Guard_Policies-000000?style=flat-square&logo=owasp&logoColor=00ff41" />
-    <img alt="Spec-driven development" src="https://img.shields.io/badge/Spec--Driven_Development-000000?style=flat-square&color=39ff5e" />
+    <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claudecode&logoColor=00ff41" />
+    <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=00ff41" />
+    <img alt="Zod" src="https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=00ff41" />
   </p>
 
   <h3>🗄️ Backend &amp; data</h3>
   <p>
-    <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41" />
     <img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=00ff41" />
     <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41" />
-    <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=swagger&logoColor=00ff41" />
-    <img alt="JSON:API" src="https://img.shields.io/badge/JSON%3AAPI-000000?style=flat-square&logo=json&logoColor=00ff41" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00ff41" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41" />
     <img alt="Redis" src="https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00ff41" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=00ff41" />
-    <img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-000000?style=flat-square&color=39ff5e" />
     <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-000000?style=flat-square&logo=typeorm&logoColor=00ff41" />
     <img alt="Drizzle ORM" src="https://img.shields.io/badge/Drizzle_ORM-000000?style=flat-square&logo=drizzle&logoColor=00ff41" />
   </p>
 
   <h3>🖥️ Product engineering</h3>
   <p>
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41" />
     <img alt="React" src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41" />
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00ff41" />
     <img alt="Angular" src="https://img.shields.io/badge/Angular-000000?style=flat-square&logo=angular&logoColor=00ff41" />
@@ -146,36 +127,27 @@
     <img alt="styled-components" src="https://img.shields.io/badge/styled--components-000000?style=flat-square&logo=styledcomponents&logoColor=00ff41" />
     <img alt="Storybook" src="https://img.shields.io/badge/Storybook-000000?style=flat-square&logo=storybook&logoColor=00ff41" />
     <img alt="RxJS" src="https://img.shields.io/badge/RxJS-000000?style=flat-square&logo=reactivex&logoColor=00ff41" />
-    <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=reactivex&logoColor=ffd86b" />
+    <img alt="NgRx" src="https://img.shields.io/badge/NgRx-000000?style=flat-square&logo=ngrx&logoColor=00ff41" />
     <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-000000?style=flat-square&logo=redux&logoColor=00ff41" />
     <img alt="Web Components" src="https://img.shields.io/badge/Web_Components-000000?style=flat-square&logo=webcomponentsdotorg&logoColor=00ff41" />
     <img alt="StencilJS" src="https://img.shields.io/badge/StencilJS-000000?style=flat-square&logo=stencil&logoColor=00ff41" />
     <img alt="Nx monorepo" src="https://img.shields.io/badge/Nx_Monorepo-000000?style=flat-square&logo=nx&logoColor=00ff41" />
     <img alt="Vite" src="https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00ff41" />
     <img alt="Webpack" src="https://img.shields.io/badge/Webpack-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
-    <img alt="Micro-frontends" src="https://img.shields.io/badge/Micro--frontends-000000?style=flat-square&logo=webpack&logoColor=00ff41" />
-    <img alt="SCSS" src="https://img.shields.io/badge/SCSS-000000?style=flat-square&logo=sass&logoColor=00ff41" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00ff41" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css&logoColor=00ff41" />
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41" />
   </p>
 
   <h3>🚀 Platform, delivery &amp; quality</h3>
   <p>
     <img alt="Docker" src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41" />
     <img alt="NGINX" src="https://img.shields.io/badge/NGINX-000000?style=flat-square&logo=nginx&logoColor=00ff41" />
-    <img alt="AWS" src="https://img.shields.io/badge/AWS-000000?style=flat-square&color=39ff5e" />
     <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00ff41" />
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=00ff41" />
     <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=00ff41" />
     <img alt="Sentry" src="https://img.shields.io/badge/Sentry-000000?style=flat-square&logo=sentry&logoColor=00ff41" />
-    <img alt="Husky" src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=git&logoColor=00ff41" />
-    <img alt="Playwright" src="https://img.shields.io/badge/Playwright-000000?style=flat-square&color=39ff5e" />
     <img alt="Vitest" src="https://img.shields.io/badge/Vitest-000000?style=flat-square&logo=vitest&logoColor=00ff41" />
     <img alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=flat-square&logo=jest&logoColor=00ff41" />
     <img alt="React Testing Library" src="https://img.shields.io/badge/Testing_Library-000000?style=flat-square&logo=testinglibrary&logoColor=00ff41" />
     <img alt="MSW" src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=mockserviceworker&logoColor=00ff41" />
-    <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-000000?style=flat-square&logo=githubactions&logoColor=00ff41" />
   </p>
 
 </details>
