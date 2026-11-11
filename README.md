@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/8abe611f5b602fffb6e2e886653aab58d5090684/typing.svg" alt="Full-Stack Engineer · AI Engineer · AI Product Engineer. Python, TypeScript, Node.js, React, Next.js, Angular and AI tools." width="100%" />
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/13eb8d2e7f31419f9b1168475e674a0d8c422b77/typing.svg" alt="Full-Stack Engineer · AI Engineer · AI Product Engineer. Python, TypeScript, Node.js, React, Next.js, Angular and AI tools." width="100%" />
 </p>
 
 <p align="center">
