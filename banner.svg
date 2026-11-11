@@ -2,7 +2,7 @@
   <title id="title">Erik Cunha, Full-Stack Engineer · AI Engineer</title>
   <desc id="description">Terminal banner. Stack: Python, TypeScript, Node.js, React, Next.js, Angular. AI: LangSmith, LangChain, LangGraph, MCP, Ollama. Icons from Simple Icons.</desc>
   <rect width="1800" height="450" fill="#020704"/>
-  <g font-family="'Courier New','DejaVu Sans Mono',Consolas,'Liberation Mono',monospace" font-size="28" font-weight="600">
+  <g transform="translate(-180 -45) scale(1.2)" font-family="'Courier New','DejaVu Sans Mono',Consolas,'Liberation Mono',monospace" font-size="28" font-weight="600">
     <g transform="translate(485 7)">
       <text x="92" y="74" fill="#58b773" font-size="25">$ erik@portfolio:~ · brazil / global remote</text>
     </g>
