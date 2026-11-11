@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.png" alt="Erik Cunha, Senior Software Engineer, AI Engineer | LLM Systems, Agents, Evals, Guardrails, RAG, MCP" width="100%" />
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/banner.svg" alt="Erik Cunha, Full-Stack Engineer · AI Engineer | LLM Systems, Agents, Evals, Guardrails, RAG, MCP" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/typing.svg" alt="Software Engineer · Full-Stack Engineer · AI Engineer · AI Product Engineer. Python, TypeScript, Node.js, React, Next.js, Angular and AI tools." width="100%" />
 </p>
 
 <p align="center">
