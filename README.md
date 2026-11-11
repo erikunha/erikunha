@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/typing.svg" alt="Software Engineer · Full-Stack Engineer · AI Engineer · AI Product Engineer. Python, TypeScript, Node.js, React, Next.js, Angular and AI tools." width="100%" />
+  <img src="https://raw.githubusercontent.com/erikunha/erikunha/main/typing.svg" alt="Full-Stack Engineer · AI Engineer · AI Product Engineer. Python, TypeScript, Node.js, React, Next.js, Angular and AI tools." width="100%" />
 </p>
 
 <p align="center">
@@ -99,6 +99,7 @@
     <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=googlegemini&logoColor=00ff41" />
     <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=00ff41" />
     <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=00ff41" />
+    <img alt="LangSmith" src="https://img.shields.io/badge/LangSmith-000000?style=flat-square&amp;color=00ff41" />
     <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=langgraph&logoColor=00ff41" />
     <img alt="Model Context Protocol" src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=flat-square&logo=modelcontextprotocol&logoColor=00ff41" />
     <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claudecode&logoColor=00ff41" />
