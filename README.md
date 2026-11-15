@@ -193,11 +193,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#422](https://github.com/erikunha/portfolio/pull/422) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. 🎉 Merged PR [#51](https://github.com/erikunha/VisionLens/pull/51) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
-3. 💪 Opened PR [#422](https://github.com/erikunha/portfolio/pull/422) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-4. 💪 Opened PR [#51](https://github.com/erikunha/VisionLens/pull/51) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
-5. 🎉 Merged PR [#50](https://github.com/erikunha/VisionLens/pull/50) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
+1. 🎉 Merged PR [#55](https://github.com/erikunha/VisionLens/pull/55) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
+2. 💪 Opened PR [#1](https://github.com/erikunha/ledgerlens/pull/1) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+3. 💪 Opened PR [#55](https://github.com/erikunha/VisionLens/pull/55) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
+4. 🎉 Merged PR [#54](https://github.com/erikunha/VisionLens/pull/54) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
+5. 💪 Opened PR [#54](https://github.com/erikunha/VisionLens/pull/54) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
 <!--END_SECTION:activity-->
 
 </details>
