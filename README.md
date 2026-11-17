@@ -193,11 +193,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#423](https://github.com/erikunha/portfolio/pull/423) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-2. ❌ Closed PR [#422](https://github.com/erikunha/portfolio/pull/422) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
-3. ❌ Closed PR [#9476](https://github.com/nexu-io/open-design/pull/9476) in [nexu-io/open-design](https://github.com/nexu-io/open-design)
-4. 💪 Opened PR [#9476](https://github.com/nexu-io/open-design/pull/9476) in [nexu-io/open-design](https://github.com/nexu-io/open-design)
-5. 🎉 Merged PR [#57](https://github.com/erikunha/VisionLens/pull/57) in [erikunha/VisionLens](https://github.com/erikunha/VisionLens)
+1. 🎉 Merged PR [#426](https://github.com/erikunha/portfolio/pull/426) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+2. 💪 Opened PR [#426](https://github.com/erikunha/portfolio/pull/426) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+3. 🎉 Merged PR [#424](https://github.com/erikunha/portfolio/pull/424) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+4. 🎉 Merged PR [#425](https://github.com/erikunha/portfolio/pull/425) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
+5. 💪 Opened PR [#425](https://github.com/erikunha/portfolio/pull/425) in [erikunha/portfolio](https://github.com/erikunha/portfolio)
 <!--END_SECTION:activity-->
 
 </details>
