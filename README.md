@@ -193,11 +193,11 @@
   <h3>⚡ Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/erikunha/ledgerlens/pull/5) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
-2. 💪 Opened PR [#5](https://github.com/erikunha/ledgerlens/pull/5) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
-3. 🎉 Merged PR [#4](https://github.com/erikunha/ledgerlens/pull/4) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
-4. 💪 Opened PR [#4](https://github.com/erikunha/ledgerlens/pull/4) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
-5. 🎉 Merged PR [#3](https://github.com/erikunha/ledgerlens/pull/3) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+1. 💪 Opened PR [#11](https://github.com/erikunha/ledgerlens/pull/11) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+2. 🎉 Merged PR [#10](https://github.com/erikunha/ledgerlens/pull/10) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+3. 💪 Opened PR [#10](https://github.com/erikunha/ledgerlens/pull/10) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+4. 🎉 Merged PR [#9](https://github.com/erikunha/ledgerlens/pull/9) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
+5. 💪 Opened PR [#9](https://github.com/erikunha/ledgerlens/pull/9) in [erikunha/ledgerlens](https://github.com/erikunha/ledgerlens)
 <!--END_SECTION:activity-->
 
 </details>
